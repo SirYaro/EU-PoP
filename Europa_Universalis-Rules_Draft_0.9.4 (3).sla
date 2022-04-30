@@ -110,7 +110,7 @@
         <STYLE NAME="Lista -1 z wcięciem punktowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="19.8425196850394" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="▷  " Numeration="0" NumerationFormat="8" NumerationPrefix="" NumerationSuffix=" " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista -1 z wcięciem numerowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="19.8425196850394" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="▷  " Numeration="0" NumerationFormat="0" NumerationPrefix="" NumerationSuffix="" NumerationStart="1" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista bez wcięcia numerowana 1,2,3" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="1" NumerationFormat="0" NumerationPrefix="" NumerationSuffix=". " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
-        <STYLE NAME="Lista bez wcięcia numerowana 1,2,3 ciągła" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="1" NumerationFormat="0" NumerationPrefix="" NumerationSuffix=". " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
+        <STYLE NAME="Lista bez wcięcia numerowana 1,2,3 ciągła" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="1" NumerationFormat="0" NumerationPrefix="" NumerationSuffix=". " NumerationHigher="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Domyślny bez wcięcia 7pt" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="7" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="3" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="7" FONTFEATURES="-clig"/>
         <STYLE NAME="Domyślny bez wcięcia 8pt" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="8" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="3" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="8" FONTFEATURES="-clig"/>
         <STYLE NAME="Domyślny bez wcięcia 9pt" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="9" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="3" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="9" FONTFEATURES="-clig"/>
@@ -137,6 +137,7 @@
         <STYLE NAME="Tabela akapitu 11 do lewej wcięcie 3" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="11.3385826771654" RMARGIN="2.83464566929134" FIRST="-8.50393700787402" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Tabela akapitu 11 do lewej" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Tabela akapitu 9 do lewej" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="9" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="9" FONTFEATURES="-clig"/>
+        <STYLE NAME="Domyślny bez wcięcia 10pt" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="10" INDENT="2.83464566929134" RMARGIN="2.83464566929134" FIRST="0" VOR="0" NACH="3" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arno Pro Regular" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="Domyślny pochyły" FONT="Arno Pro Italic 12pt" FONTSIZE="11" FONTFEATURES="-clig" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="EU symbole" FONT="ZQTHMO+ThePriceOfPowerRegular Regular" FONTSIZE="14" FONTFEATURES="-clig,-liga" LANGUAGE="pl"/>
@@ -163,6 +164,8 @@
         <CHARSTYLE CNAME="Domyślny pogrubiona kursywa 11" FONT="Arno Pro Bold Italic 12pt" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="Domyślny pogrubiona kursywa 11 szare tło" FONT="Arno Pro Bold Italic 12pt" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="Grey 85" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="Domyślny kursywa 11 szare tło" FONT="Arno Pro Italic 12pt" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="Grey 85" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
+        <CHARSTYLE CNAME="Domyślny pogrubiona kursywa 9" FONT="Arno Pro Bold Italic 12pt" FONTSIZE="9" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
+        <CHARSTYLE CNAME="Domyślny pogrubiona kursywa 10" FONT="Arno Pro Bold Italic 12pt" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -2296,13 +2299,6 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="13179.9973070866" OwnPage="14" ItemID="572729022" PTYPE="6" WIDTH="595.927941507312" HEIGHT="17.0074173228343" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.928 0 L595.928 17.0074 L0 17.0074 L0 0 Z" copath="M0 0 L595.928 0 L595.928 17.0074 L0 17.0074 L0 0 Z" gXpos="100.00062992126" gYpos="833.545023622048" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="128.34662992126" YPOS="13179.9973070866" OwnPage="14" ItemID="572799630" PTYPE="4" WIDTH="169.553606299213" HEIGHT="17.5978335208094" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" copath="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" gXpos="128.34662992126" gYpos="833.545023622048" gWidth="0" gHeight="0" PSTYLE="podrozdział nagłówek 15 szary" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
-                <ITEXT CH="europa universalis"/>
-                <trail PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
-            </StoryText>
-        </PAGEOBJECT>
         <PAGEOBJECT XPOS="497.376614173228" YPOS="13179.9973070866" OwnPage="14" ItemID="572786062" PTYPE="4" WIDTH="169.553606299213" HEIGHT="17.5978335208094" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" copath="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" gXpos="497.376614173228" gYpos="833.545023622048" gWidth="0" gHeight="0" PSTYLE="podrozdział nagłówek 15 szary" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
@@ -5215,13 +5211,13 @@
                 <ITEXT CPARENT="EU symbole" CH="c"/>
                 <ITEXT CH=")"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="100" CH="Wymaga Idei „Poszukiwania Nowego Świata” („Quest for the New World” / „QftNW”), aby móc używać Statków do Eksploracji."/>
+                <ITEXT SCALEH="92" CH="Wymaga Idei „Poszukiwania Nowego Świata” („Quest for the New World” / „QftNW”), aby móc używać Statków do Eksploracji."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="100" CH="Podejmując tę Akcję, wykonaj kolejno poniższe kroki:"/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="99" CH="Jeśli masz „QftNW”, możesz przesunąć 1 Lekki Statek (używając zasad Ruchu Morskiego, str. "/>
-                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="99" CH="25"/>
-                <ITEXT SCALEH="99" CH=") do Strefy Morskiej na jednym z Odległych Kontynentów. Statek ten nie może wejść do Wrogiej Strefy Morskiej."/>
+                <ITEXT SCALEH="100" CH="Jeśli masz „QftNW”, możesz przesunąć 1 Lekki Statek (używając zasad Ruchu Morskiego, str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="100" CH="25"/>
+                <ITEXT SCALEH="100" CH=") do Strefy Morskiej na jednym z Odległych Kontynentów. Statek ten nie może wejść do Wrogiej Strefy Morskiej."/>
                 <para PARENT="Lista bez wcięcia numerowana 1,2,3" NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="97" CH="Rzuć Kością Eksploracji, a następnie wykorzystaj wynik (jak opisano poniżej) albo zapłać 1"/>
                 <ITEXT CPARENT="EU symbole" SCALEH="97" CH="b"/>
@@ -5262,7 +5258,7 @@
                 <ITEXT SCALEH="94" CH=" zostało umieszczone), dodaj wszystkie niewykorzystane Karty Handlu odpowiadające numerowi dla tego kontynentu (patrz str. "/>
                 <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="94" CH="35"/>
                 <ITEXT SCALEH="94" CH=") i przetasuj talię."/>
-                <para PARENT="Lista bez wcięcia numerowana 1,2,3 ciągła" NumerationName="&lt;local block&gt;"/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3 ciągła"/>
                 <ITEXT CH="Badanie Idei (X"/>
                 <ITEXT CPARENT="EU symbole" CH="d"/>
                 <ITEXT CH=")"/>
@@ -5279,7 +5275,6 @@
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" SCALEH="100" CH="Badania"/>
                 <ITEXT SCALEH="100" CH="."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Zmiana Celu Narodowego"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="95" CH="Podczas wykonywania tej Akcji musisz wykonać jedną lub obie poniższe opcje, w"/>
@@ -5290,11 +5285,11 @@
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Zmienionego Celu Narodowego"/>
                 <ITEXT SCALEH="95" CH=" na swojej Planszy Gracza, aby oznaczyć, że włąsnie to zrobiłeś."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="95" CH="Zwiększ jeden rodzaj Siły Monarchii o maksymalnie 2"/>
-                <ITEXT CPARENT="EU symbole" SCALEH="95" CH="d"/>
-                <ITEXT SCALEH="95" CH=", przesuwając maksymalnie 1"/>
-                <ITEXT CPARENT="EU symbole" SCALEH="95" CH="d"/>
-                <ITEXT SCALEH="95" CH=" z każdej z dwóch pozostałych puli Siły Monarchii na twojej Planszy Gracza."/>
+                <ITEXT SCALEH="100" CH="Zwiększ jeden rodzaj Siły Monarchii o maksymalnie 2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="d"/>
+                <ITEXT SCALEH="100" CH=", przesuwając maksymalnie 1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="d"/>
+                <ITEXT SCALEH="100" CH=" z każdej z dwóch pozostałych puli Siły Monarchii na twojej Planszy Gracza."/>
                 <para PARENT="Lista bez wcięcia numerowana 1,2,3" NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="96" CH="Odrzuć do 3 Kart Akcji z ręki (dodaj je do stosu kart odrzuconych "/>
                 <ITEXT CPARENT="Domyślny podkresl" SCALEH="96" CH="po"/>
@@ -5307,12 +5302,12 @@
                 <ITEXT SCALEH="100" CH=", aby dobrać 1 z pięciu nowych kart z wierzchu kart odrzuconych z talii odpowiadającej zapłaconemu typowi "/>
                 <ITEXT CPARENT="EU symbole" SCALEH="100" CH="d"/>
                 <ITEXT SCALEH="100" CH="."/>
-                <para PARENT="Lista -1 z wcięciem bez numerowana" NumerationName="&lt;local block&gt;"/>
+                <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Zmiana Religii Państwowej"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="93" CH="Począwszy od II Ery, ta Akcja pozwala Królestwu zmienić Religię Państwową z katolickiej na protestancką (lub z Protestanckiej na Katolicką). W przeciwnym razie zmiana Religii Państwowej może nastąpić tylko w wyniku Wydarzenia lub jeśli zostaniesz zmuszony do Konwersji (str. "/>
-                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="93" CH="31"/>
-                <ITEXT SCALEH="93" CH=")."/>
+                <ITEXT SCALEH="91" CH="Począwszy od II Ery, ta Akcja pozwala Królestwu zmienić Religię Państwową z katolickiej na protestancką (lub z Protestanckiej na Katolicką). W przeciwnym razie zmiana Religii Państwowej może nastąpić tylko w wyniku Wydarzenia lub jeśli zostaniesz zmuszony do Konwersji (str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="91" CH="31"/>
+                <ITEXT SCALEH="91" CH=")."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="100" CH="Ta akcja nie ma kosztu Siły Monarchii, ale zamiast tego musisz ponieść następujące konsekwencje:"/>
                 <para NumerationName="&lt;local block&gt;"/>
@@ -5331,11 +5326,11 @@
                 <ITEXT CPARENT="EU symbole" SCALEH="99" CH="I"/>
                 <ITEXT SCALEH="99" CH=" w Obszarach o tej samej wierze, co twoja nowa Religia Państwowa."/>
                 <para PARENT="Lista bez wcięcia punktowana" NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="93" CH="Otrzymujesz 1"/>
-                <ITEXT CPARENT="EU symbole" SCALEH="93" CH="u"/>
-                <ITEXT SCALEH="93" CH=" w każdym ze swoich Obszarów należących do Religii, którą porzuciłeś. Następnie rzuć Kośćmi Buntowników (patrz str. "/>
-                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="93" CH="37"/>
-                <ITEXT SCALEH="93" CH=") dla tych Obszarów. "/>
+                <ITEXT SCALEH="100" CH="Otrzymujesz 1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="u"/>
+                <ITEXT SCALEH="100" CH=" w każdym ze swoich Obszarów należących do Religii, którą porzuciłeś. Następnie rzuć Kośćmi Buntowników (patrz str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="100" CH="37"/>
+                <ITEXT SCALEH="100" CH=") dla tych Obszarów. "/>
                 <para PARENT="Lista bez wcięcia punktowana" NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="97" CH="Alternatywnie, jeśli na planszy znajduje się przynajmniej 1 żeton Kontrreformacji (po Wydarzeniu "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Soboru Trydenckiego"/>
@@ -5426,7 +5421,251 @@
                 <ITEXT CH="Otrzymujesz 1"/>
                 <ITEXT CPARENT="EU symbole" CH="c"/>
                 <ITEXT CH=", jeśli Sojusznik NPR sąsiaduje z nowym Wrogiem."/>
-                <trail NumerationName="&lt;local block&gt;"/>
+                <para NumerationName="&lt;local block&gt;"/>
+                <ITEXT CH="Wzięcie/Spłata Pożyczki - "/>
+                <ITEXT CPARENT="EU symbole" CH="£"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT CH="Możesz brać Pożyczki, o ile nie masz jeszcze w swoim Skarbcu 5 lub więcej żetonów Odsetek. Zaciągnięcie Pożyczki może być wykonane jako Reakcja, jeśli musisz pokryć koszt, a brakuje ci na to funduszy. Kiedy bierzesz Pożyczkę, weź żeton Odsetek i 5"/>
+                <ITEXT CPARENT="EU symbole" CH="D"/>
+                <ITEXT CH=" z zasobów ogólnych i dodaj je do swojego Skarbca."/>
+                <para/>
+                <ITEXT SCALEH="92" CH="Aby spłacić Pożyczkę, zapłać 6"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="92" CH="D"/>
+                <ITEXT SCALEH="92" CH=" ze swojego Skarbca i zwróć żeton Odsetek do zasobów ogólnych. Możesz od razu użyć do tego celu Dukatów zdobytych za Spasowanie."/>
+                <para/>
+                <ITEXT SCALEH="77" CH="Uzupełnianie Siły Roboczej (1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="77" CH="c"/>
+                <ITEXT SCALEH="77" CH=" za 3 Jednostki)"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="96" CH="Możesz odświeżyć Wyczerpane Jednostki w swojej Rezerwie Siły Roboczej kosztem 1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="c"/>
+                <ITEXT SCALEH="96" CH=" za każde 3 Jednostki. Przesuń te Jednostki z pola Wyczerpane "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="m"/>
+                <ITEXT SCALEH="96" CH=" na pole Dostępne "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="m"/>
+                <ITEXT SCALEH="96" CH="; są teraz gotowe do rekrutacji."/>
+                <para/>
+                <ITEXT CH="Zerwanie Więzi"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="97" CH="Przywróć dowolną liczbę swoich "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="97" CH="I"/>
+                <ITEXT SCALEH="97" CH=" z planszy do zasobów i/lub zakończ dowolną liczbę Sojuszy. Jeśli zakończysz jakikolwiek Sojusz, poniesiesz kary opisane w rozdziale &quot;Zakończenie Sojuszu&quot; na stronie "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="97" CH="33"/>
+                <ITEXT SCALEH="97" CH="."/>
+                <para/>
+                <ITEXT CH="5.3 Akcje administracyjne"/>
+                <para PARENT="podrozdział nagłówek 15 czerw"/>
+                <ITEXT SCALEH="89" CH="Zwiększ Stabilność (5"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="89" CH="a"/>
+                <ITEXT SCALEH="89" CH=" +/- aktualna "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="89" CH="s"/>
+                <ITEXT SCALEH="89" CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="99" CH="Możesz wydać 5"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="99" CH="a"/>
+                <ITEXT SCALEH="99" CH=", zmodyfikowane o aktualną wartość Stabilności, aby zwiększyć swoją Stabilność o 1 krok (np. zwiększenie Stabilności z -3 do -2 kosztuje (5 - 3 =) 2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="99" CH="a"/>
+                <ITEXT SCALEH="99" CH=", a zwiększenie Stabilności z +1 do +2 kosztuje (5 + 1 =) 6"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="99" CH="a"/>
+                <ITEXT SCALEH="99" CH=")."/>
+                <para/>
+                <ITEXT CH="Konwertuj Obszar (2"/>
+                <ITEXT CPARENT="EU symbole" CH="a"/>
+                <ITEXT CH=" + 3"/>
+                <ITEXT CPARENT="EU symbole" CH="D"/>
+                <ITEXT CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="96" CH="Możesz przekonwertować religię danego obszaru na swoją religię państwową, jeśli posiadasz wszystkie prowincje w obszarze (obszarach) rządzonym przez jego slot religii lub jeśli posiadasz przynajmniej jedną z tych prowincji, a wszystkie pozostałe należą do królestw o tej samej religii państwowej co twoje. "/>
+                <para/>
+                <ITEXT SCALEH="96" CH="Umieść odpowiedni żeton Religii na slocie Religii obszaru (lub usuń aktualny żeton, aby odsłonić wydrukowany symbol), dodaj "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="u"/>
+                <ITEXT SCALEH="96" CH=" do 1 z twoich dotkniętych "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="t"/>
+                <ITEXT SCALEH="96" CH=", "/>
+                <breakline/>
+                <ITEXT SCALEH="96" CH="i rzuć kostką Buntu za wszystkie twoje "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="96" CH="u"/>
+                <ITEXT SCALEH="96" CH=" na dotkniętych obszarach."/>
+                <para/>
+                <ITEXT CH="Kolonizacja ( 4"/>
+                <ITEXT CPARENT="EU symbole" CH="a"/>
+                <ITEXT CH="/"/>
+                <ITEXT CPARENT="EU symbole" CH="&lt;"/>
+                <ITEXT CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="94" CH="Aby podjąć akcję Kolonizacji, wydaj 4"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="a"/>
+                <ITEXT SCALEH="94" CH=" lub 4"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="&lt;"/>
+                <ITEXT SCALEH="94" CH=" z Puli Kolonistów (lub dowolną kombinację tych wydatków w sumie 4), a następnie zamień 1 ze swoich "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="G"/>
+                <ITEXT SCALEH="94" CH=" na wolne Terytorium z Małym "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="t"/>
+                <ITEXT SCALEH="94" CH=". To Kolonialne "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="G"/>
+                <ITEXT SCALEH="94" CH=" musi być połączone z twoją Stolicą poprzez ciągły łańcuch Obszarów Pośrednich i Stref Morskich z twoimi "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="t"/>
+                <ITEXT SCALEH="94" CH=" i/lub Statkami."/>
+                <para/>
+                <ITEXT CH="5.4 Akcje Dyplomatyczne"/>
+                <para PARENT="podrozdział nagłówek 15 czerw"/>
+                <ITEXT CH="Wpływ (1"/>
+                <ITEXT CPARENT="EU symbole" CH="b"/>
+                <ITEXT CH=" lub 3"/>
+                <ITEXT CPARENT="EU symbole" CH="D"/>
+                <ITEXT CH=" za "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="100" CH="Zapłać 1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="b"/>
+                <ITEXT SCALEH="100" CH=" za pierwsze umieszczone "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="I"/>
+                <ITEXT SCALEH="100" CH=", a następnie albo 1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="b"/>
+                <ITEXT SCALEH="100" CH=" albo 3"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="D"/>
+                <ITEXT SCALEH="100" CH=" za każde kolejne "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="I"/>
+                <ITEXT SCALEH="100" CH="."/>
+                <para/>
+                <ITEXT CH="Możesz umieścić "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" na Obszarach sąsiadujących z jakimikolwiek twoimi "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="EU symbole" CH="v"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="EU symbole" CH="A"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="EU symbole" CH="M"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=", które były tam na początku twojej Tury."/>
+                <para/>
+                <ITEXT CH="Możesz umieścić tyle "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=", ile chcesz, ale nie więcej niż 2"/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" w każdym Obszarze podczas jednej Tury."/>
+                <para/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Uwaga"/>
+                <ITEXT CH=": W żadnym Obszarze nie może znajdować się więcej niż 5"/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=". Aby umieścić "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" na Obszarze, który jest „pełny”, użyj odpowiedniej "/>
+                <ITEXT CPARENT="Domyślny kursywa 11" CH="Tajnej Akcji"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT SCALEH="99" CH="Żadne "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="99" CH="I"/>
+                <ITEXT SCALEH="99" CH=" nie może być umieszczony na żadnym Odległym Kontynencie."/>
+                <para/>
+                <ITEXT CH="Zawiązanie Sojuszu (1-3"/>
+                <ITEXT CPARENT="EU symbole" CH="b"/>
+                <ITEXT CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="100" CH="Aby sprzymierzyć się z NPR, zapłać "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="b"/>
+                <ITEXT SCALEH="100" CH=" równe połowie Dochód z Podatków docelowego NPR (ale maksymalnie 3"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="b"/>
+                <ITEXT SCALEH="100" CH="), a następnie weź dostępne "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="A"/>
+                <ITEXT SCALEH="100" CH=" ze swojego Zasobów i umieść je w 1 z Prowincji docelowego NPR w jego Obszarze Stołecznym, wraz z "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="I"/>
+                <ITEXT SCALEH="100" CH=" (jeśli jest tam miejsce)."/>
+                <para/>
+                <ITEXT CH="Więcej szczegółów na temat korzyści i zobowiązań wynikających z Sojuszy znajduje się na stronie "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" CH="32"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT SCALEH="100" CH="Aby móc podjąć tę Akcję, zarówno ty, jak i docelowe NPR musicie być w stanie Pokoju."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT SCALEH="100" CH="Musisz mieć w sumie co najmniej 2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="I"/>
+                <ITEXT SCALEH="100" CH=" w dowolnym Obszarze (Obszarach) należącym do docelowego NPR."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT CH="Jeśli docelowy NPR jest sprzymierzony z Przeciwnikiem, musisz mieć więcej "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" niż Przeciwnik na Obszarach należących do docelowego NPR, aby zastąpić jego "/>
+                <ITEXT CPARENT="EU symbole" CH="A"/>
+                <ITEXT CH=" swoim."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT SCALEH="100" CH="Aby zawrzeć Sojusz z Odległym NPR, musisz mieć "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="G"/>
+                <ITEXT SCALEH="100" CH=" na więcej niż 1 z jego Obszarów."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT SCALEH="97" CH="Sfabrykuj Roszczenia (2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="97" CH="b"/>
+                <ITEXT SCALEH="97" CH=" za "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="97" CH="G"/>
+                <ITEXT SCALEH="97" CH=") - "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="97" CH="∞"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT SCALEH="100" CH="To jest "/>
+                <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="100" CH="Tajna Akcja"/>
+                <ITEXT SCALEH="100" CH=". Zapłać 2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="b"/>
+                <ITEXT SCALEH="100" CH=" za każde "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="G"/>
+                <ITEXT SCALEH="100" CH=", aby umieścić "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="G"/>
+                <ITEXT SCALEH="100" CH=" na Obszarach sąsiadujących z twoim Królestwem. "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="G"/>
+                <ITEXT SCALEH="100" CH=" zapewnia CB podboju przeciwko wszystkim Królestwom Posiadającym Prowincje na Obszarze, na którym umieszczono "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="G"/>
+                <ITEXT SCALEH="100" CH="."/>
+                <para/>
+                <ITEXT CH="Nie możesz Sfabrykować Roszczeń na Obszarach, na których Posiadasz wszystkie Prowincje."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT CH="Musisz być w stanie Pokoju, aby móc Sfabrykować Roszczenia."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT CH="Aby móc Sfabrykować Roszczenie na Odległym Obszarze, musi on przylegać do twojego Królestwa lądem i zawierać Prowincję NPR, "/>
+                <ITEXT CPARENT="EU symbole" CH="v"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH="."/>
+                <para PARENT="Lista bez wcięcia punktowana"/>
+                <ITEXT CH="Handel (1"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="97" CH="b"/>
+                <ITEXT CH=")"/>
+                <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
+                <ITEXT CH="Jeśli masz dostępnego Kupca, możesz zapłacić 1"/>
+                <ITEXT CPARENT="EU symbole" CH="b"/>
+                <ITEXT CH=", aby wykonać kolejno następujące czynności:"/>
+                <para/>
+                <ITEXT CH="Ujawnij 3 Karty Handlu."/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT SCALEH="95" CH="Jeśli nie możesz lub nie chcesz wykorzystać żadnej z tych kart, odrzuć je wszystkie, zignoruj kroki 3-6 i zbierz 2"/>
+                <ITEXT CPARENT="EU symbole" SCALEH="95" CH="D"/>
+                <ITEXT SCALEH="95" CH="."/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT SCALEH="94" CH="Opcjonalnie rusz 1 ze swoich Lekkich Statków (korzystając z zasad o „Ruchu Morskim”, str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="94" CH="25"/>
+                <ITEXT SCALEH="94" CH="), aby nawiązać połączenie lub zwiększyć swoją Siłę Handlową ("/>
+                <ITEXT CPARENT="EU symbole" SCALEH="94" CH="="/>
+                <ITEXT SCALEH="94" CH=") w miejscu, w którym zamierzasz prowadzić Handel. Możesz umieścić ten Statek na polu Ochrony Handlu (wypierając Statek Przeciwnika, jeśli wszystkie pola są zajęte) w docelowej Strefie Morskiej. Statek ten nie może wpłynąć do Wrogiej Strefy Morskiej."/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT SCALEH="92" CH="Wybierz odkrytą kartę, która wskazuje Węzeł Handlowy, w którym możesz Handlować (patrz poniżej). Jeśli ruszono Statek, wybrany węzeł musi przylegać do tego Statku lub być połączony z Obszarem Stołecznym łańcuchem, w którym znajduje się ten okręt. Odrzuć pozostałe karty."/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT SCALEH="100" CH="Wybierz dostępnego (ustawionego pionowo) Kupca i, jeśli jeszcze go tam nie ma, porusz go do wybranego Węzła Handlowego. Aktywuj tego Kupca, kładąc go na boku. "/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT CH="Oblicz Siłę Handlową (patrz str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" CH="35"/>
+                <ITEXT CH=") dla siebie i wszystkich Przeciwników posiadających poprawne połączenie "/>
+                <ITEXT CPARENT="Domyślny podkresl" CH="oraz"/>
+                <ITEXT CH=" Kupca (aktywowanego lub nie) w wybranym węźle. Następnie ustal, z których rzędów dochodu Karty Handlu każdy z graczy powinien pobierać dochód. "/>
+                <para PARENT="Lista bez wcięcia numerowana 1,2,3"/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Uprawniony"/>
+                <ITEXT CH=" (TO_CHECK): PR może zbierać Dochód z Handlu tylko w węzłach, które są połączone z Obszarem Stołecznym PR poprzez ciąg Obszarów pośrednich i/lub Stref Morskich, w których znajdują się ich "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="EU symbole" CH="v"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" lub Lekkie Statki."/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="9749.1311968504" OwnPage="11" ItemID="598105166" PTYPE="4" WIDTH="170.079" HEIGHT="26.2028" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="English-red" SHADE="80" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="2.83464566929134" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L170.079 0 L170.079 26.2028 L0 26.2028 L0 0 Z" copath="M0 0 L170.079 0 L169.939 28.9402 L0 29.3688 L0 0 Z" gXpos="128.34662992126" gYpos="48.347259842518" gWidth="0" gHeight="0" PSTYLE="rozdział nagłówek 20" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -5436,8 +5675,8 @@
                 <trail PARENT="rozdział nagłówek 20"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="128.34662992126" YPOS="10631.0206456693" OwnPage="12" ItemID="597495134" PTYPE="4" WIDTH="538.584" HEIGHT="785.197913385827" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L181.791 0 L538.584 1.12012 L538.584 530.684 L538.584 785.198 L0 785.198 L0 0 Z" copath="M0 0 L538.584 0 L538.584 785.197 L0 785.197 L0 0 Z" gXpos="128.34662992126" gYpos="48.3472598425209" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="595085486"/>
-        <PAGEOBJECT XPOS="128.34662992126" YPOS="10315.3894488189" OwnPage="11" ItemID="597495886" PTYPE="4" WIDTH="355.05337007874" HEIGHT="217.396551724143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 217.397 L0 217.397 L0 0 Z" copath="M0 0 L355.053 0 L355.053 217.397 L0 217.397 L0 0 Z" gXpos="128.34662992126" gYpos="9433.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="10631.0206456693" OwnPage="12" ItemID="597495134" PTYPE="4" WIDTH="538.584" HEIGHT="785.197913385827" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L181.791 0 L538.584 1.12012 L538.584 530.684 L538.584 785.198 L0 785.198 L0 0 Z" copath="M0 0 L538.584 0 L538.584 785.197 L0 785.197 L0 0 Z" gXpos="128.34662992126" gYpos="48.3472598425209" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="643800766" BACKITEM="595085486"/>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="10324.1" OwnPage="11" ItemID="597495886" PTYPE="4" WIDTH="355.05337007874" HEIGHT="207.685714285721" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 207.686 L0 207.686 L0 0 Z" copath="M0 -3.74861 L354.987 -4.08035 L355.053 207.686 L0 207.686 L0 -3.74861 Z" gXpos="128.34662992126" gYpos="9442.2105511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
@@ -5455,16 +5694,16 @@
                 <trail PARENT="Domyślny kursywa 11"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="130.578947368421" YPOS="10315.9878740157" OwnPage="11" ItemID="604070382" PTYPE="2" WIDTH="346.429556568587" HEIGHT="123.052480314969" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.403450755131046" LOCALSCY="0.403450755131046" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p12-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L346.43 0 L346.43 123.052 L0 123.052 L0 0 Z" copath="M0 0 L346.43 0 L346.43 123.052 L0 123.052 L0 0 Z" gXpos="130.578947368421" gYpos="9434.09842519684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="280.481439820022" YPOS="10424.3442519685" OwnPage="11" ItemID="604068190" PTYPE="4" WIDTH="132.857142857143" HEIGHT="10.8880314960643" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L132.857 0 L132.857 10.888 L0 10.888 L0 0 Z" copath="M0 0 L132.857 0 L132.857 10.888 L0 10.888 L0 0 Z" gXpos="280.481439820022" gYpos="10424.3442519685" gWidth="0" gHeight="0" PSTYLE="Domyślny 9pt" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="150.42146705346" YPOS="10327.3993700787" OwnPage="11" ItemID="604070382" PTYPE="2" WIDTH="311.021052631579" HEIGHT="111.640984251924" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.366036013940734" LOCALSCY="0.366036013940734" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p12-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L311.021 0 L311.021 111.641 L0 111.641 L0 0 Z" copath="M0 0 L311.021 0 L311.021 111.641 L0 111.641 L0 0 Z" gXpos="150.42146705346" gYpos="9445.50992125989" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="288.985376827896" YPOS="10424.3442519685" OwnPage="11" ItemID="604068190" PTYPE="4" WIDTH="132.857142857143" HEIGHT="10.8880314960643" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L132.857 0 L132.857 10.888 L0 10.888 L0 0 Z" copath="M0 0 L132.857 0 L132.857 10.888 L0 10.888 L0 0 Z" gXpos="288.985376827896" gYpos="10424.3442519685" gWidth="0" gHeight="0" PSTYLE="Domyślny 9pt" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny 9pt"/>
                 <ITEXT CH="›Angielskie Wydarzenie"/>
                 <trail PARENT="Domyślny kursywa 9"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="251.88" YPOS="10425.8" OwnPage="11" ItemID="604683118" PTYPE="6" WIDTH="29.28" HEIGHT="3.43999999999869" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="English-red" PLINEART="1" path="M29.28 1.44 C19.1395 1.44 8.51955 0 0 0 L0 2 C8.51955 2 19.1395 3.44 29.28 3.44 L29.28 1.44 Z" copath="M29.28 1.44 C19.1395 1.44 8.51955 0 0 0 L0 2 C8.51955 2 19.1395 3.44 29.28 3.44 L29.28 1.44 Z" gXpos="281.28" gYpos="10428.24" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="629.727272727273" YPOS="9910.70645669294" OwnPage="11" ItemID="604671726" PTYPE="2" WIDTH="37.2029477451682" HEIGHT="39.6850393700788" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.279721411617806" LOCALSCY="0.279721411617806" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p12-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L37.2029 0 L37.2029 39.685 L0 39.685 L0 0 Z" copath="M-2.37433 0 L37.2029 0 L37.2029 39.685 L-2.19786 39.596 L-2.37433 0 Z" gXpos="629.727272727273" gYpos="9910.70645669294" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="263.218582677165" YPOS="10425.8" OwnPage="11" ItemID="604683118" PTYPE="6" WIDTH="29.28" HEIGHT="3.43999999999869" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="English-red" PLINEART="1" path="M29.28 1.44 C19.1395 1.44 8.51955 0 0 0 L0 2 C8.51955 2 19.1395 3.44 29.28 3.44 L29.28 1.44 Z" copath="M29.28 1.44 C19.1395 1.44 8.51955 0 0 0 L0 2 C8.51955 2 19.1395 3.44 29.28 3.44 L29.28 1.44 Z" gXpos="292.618582677165" gYpos="10428.24" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="629.727272727273" YPOS="9913.54110236223" OwnPage="11" ItemID="604671726" PTYPE="2" WIDTH="37.2029477451682" HEIGHT="39.6850393700788" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.279721411617806" LOCALSCY="0.279721411617806" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p12-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L37.2029 0 L37.2029 39.685 L0 39.685 L0 0 Z" copath="M-2.37433 0 L37.2029 0 L37.2029 39.685 L-2.19786 39.596 L-2.37433 0 Z" gXpos="629.727272727273" gYpos="9913.54110236223" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="10631.2001574803" OwnPage="12" ItemID="604167614" PTYPE="4" WIDTH="355.05337007874" HEIGHT="313.799842519671" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 313.8 L0 313.8 L0 0 Z" copath="M0 -4.50785 L355 -3.70016 L354.022 318.958 L0 318.642 L0 -4.50785 Z" gXpos="128.34662992126" gYpos="8867.42125984253" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -5495,7 +5734,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="130.578947368421" YPOS="10633.7828346457" OwnPage="12" ItemID="604648270" PTYPE="2" WIDTH="350.574898785425" HEIGHT="161.832549969713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.376153324877065" LOCALSCY="0.376153324877065" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p13-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L350.575 0 L350.575 161.833 L0 161.833 L0 0 Z" copath="M0 0 L350.575 0 L350.575 161.833 L0 161.833 L0 0 Z" gXpos="130.578947368421" gYpos="8870.00393700787" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="253.44157480315" YPOS="11179.2559055118" OwnPage="12" ItemID="604643038" PTYPE="2" WIDTH="43.9999999999999" HEIGHT="44.5" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.274999999999999" LOCALSCY="0.274999999999999" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p13-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44 0 L44 44.5 L0 44.5 L0 0 Z" copath="M-2.84157 0.169291 L44 0 L44 44.5 L-3.04157 44.5693 L-2.84157 0.169291 Z" gXpos="253.44157480315" gYpos="11179.2559055118" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="497.086956521739" YPOS="11252.3307086615" OwnPage="12" ItemID="604693838" PTYPE="4" WIDTH="169.843263950702" HEIGHT="147.125000000004" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.843 0 L169.843 147.125 L0 147.125 L0 0 Z" copath="M7.82609 6.20469 L169.843 0 L169.843 147.125 L0 147.125 L7.82609 6.20469 Z" gXpos="497.086956521739" gYpos="11252.3307086615" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="497.086956521739" YPOS="11215.4803149607" OwnPage="12" ItemID="604693838" PTYPE="4" WIDTH="169.843263950702" HEIGHT="147.125000000004" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.843 0 L169.843 147.125 L0 147.125 L0 0 Z" copath="M7.82609 6.20469 L169.843 0 L169.843 147.125 L0 147.125 L7.82609 6.20469 Z" gXpos="497.086956521739" gYpos="11215.4803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Reakcje"/>
@@ -5521,7 +5760,7 @@
                 <para PARENT="Domyślny szare tło"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="497.4" YPOS="9824.90787401574" OwnPage="11" ItemID="605447006" PTYPE="4" WIDTH="169.530220472441" HEIGHT="65.1999999999989" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.53 0 L169.53 65.2 L0 65.2 L0 0 Z" copath="M-0.15 -5.5875 L169.53 -5.5875 L169.53 69.0375 L0.0375 69.0375 L-0.15 -5.5875 Z" gXpos="497.4" gYpos="9824.90787401574" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="497.4" YPOS="9819.23858267716" OwnPage="11" ItemID="605447006" PTYPE="4" WIDTH="169.530220472441" HEIGHT="65.1999999999989" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.53 0 L169.53 65.2 L0 65.2 L0 0 Z" copath="M-0.15 -5.5875 L169.53 -5.5875 L169.53 69.0375 L0.0375 69.0375 L-0.15 -5.5875 Z" gXpos="497.4" gYpos="9819.23858267716" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11 szare tło" SCALEH="99" CH="Zasada opcjonalna 1"/>
@@ -5532,6 +5771,222 @@
                 <ITEXT CPARENT="EU symbole szare tło" SCALEH="93" CH="b"/>
                 <ITEXT SCALEH="93" CH=", możesz odbyć prywatną, 3-minutową konferencję z innym graczem. Wszelka inna komunikacja w grze musi odbywać się jawnie."/>
                 <trail PARENT="Domyślny szare tło"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="11512.9100944882" OwnPage="13" ItemID="643800766" PTYPE="4" WIDTH="538.584" HEIGHT="785.197913385827" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L181.791 0 L538.584 1.12012 L538.584 530.684 L538.584 785.198 L0 785.198 L0 0 Z" copath="M0 0 L538.584 0 L538.584 785.197 L0 785.197 L0 0 Z" gXpos="128.34662992126" gYpos="48.3472598425209" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="656919310" BACKITEM="597495134"/>
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="11513.0896062992" OwnPage="13" ItemID="643476670" PTYPE="4" WIDTH="355.053" HEIGHT="516.410393700804" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 516.41 L0 516.41 L0 0 Z" copath="M0 -7.41842 L355 -6.08923 L354.022 524.899 L0 524.379 L0 -7.41842 Z" gXpos="0" gYpos="0" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
+                <ITEXT CH=": ›Anglia (czerwony gracz) odkryła Antyle, Kanadę, Pernambuco i Złote Wybrzeże. Ma Statki na "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="północno-zachodnim Atlantyku"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="południowo-wschodnim Atlantyku"/>
+                <ITEXT CH=" i "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="północno-wschodnim Atlantyku"/>
+                <ITEXT CH=", a teraz chce dokonać kolonizacji. Posiadają 2"/>
+                <ITEXT CPARENT="EU symbole" CH="&lt;"/>
+                <ITEXT CH=" w Puli Kolonistów i wydają 2"/>
+                <ITEXT CPARENT="EU symbole" CH="a"/>
+                <ITEXT CH=", aby osiągnąć łączną liczbę 4 wymaganą do ukończenia Akcji "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" CH="Kolonizacja"/>
+                <ITEXT CH=". Mogą teraz zamienić 1 ze swoich kolonii "/>
+                <ITEXT CPARENT="EU symbole" CH="G"/>
+                <ITEXT CH=" na miasto."/>
+                <para PARENT="Domyślny kursywa 11"/>
+                <ITEXT CH="Jednakże ›Anglia może przekształcić w miasto tylko taką jednostkę, która jest połączona łańcuchem ›Angielskich statków i/lub "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH=" z jej Obszarem Stołecznym. Na "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Morzu Karaibskim"/>
+                <ITEXT CH=" i "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="południowo-zachodnim Atlantyku"/>
+                <ITEXT CH=" nie ma żadnego Statku, więc Antyle i Pernambuco "/>
+                <ITEXT CPARENT="EU symbole" CH="G"/>
+                <ITEXT CH=" nie mogą być zamienione na "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH=" w tym momencie. Nie można też zamienić "/>
+                <ITEXT CPARENT="EU symbole" CH="G"/>
+                <ITEXT CH=" na Złotym Wybrzeżu. Pomimo tego, że na "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="południowo-wschodnim Atlantyku"/>
+                <ITEXT CH=" znajduje się Statek, łańcuch ten nie jest kompletny, ponieważ nie ma żadnych Statków w Strefach Morskich pomiędzy "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="południowo-wschodnim Atlantykiem"/>
+                <ITEXT CH=", a innymi Strefami Morskimi z ›Angielskimi Statkami."/>
+                <para PARENT="Domyślny kursywa 11"/>
+                <ITEXT CH="›Anglia może jednak zdecydować się na umieszczenie swojego Miasta w Kanadzie, co pokazują żółte linie. Mając Statek na "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Morzu Karaibskim"/>
+                <ITEXT CH=", mogliby również umieścić miasto na Antylach lub Złotym Wybrzeżu, ponieważ "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Morze Karaibskie"/>
+                <ITEXT CH=" sąsiaduje zarówno z "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="północno-zachodnim"/>
+                <ITEXT CH=", jak i "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="południowo-wschodnim Atlantykiem"/>
+                <ITEXT CH=" (połączenie "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="C"/>
+                <ITEXT CH=")."/>
+                <para PARENT="Domyślny kursywa 11"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="325.602569415665" YPOS="11516.6320253418" OwnPage="13" ItemID="618072670" PTYPE="2" WIDTH="350.575" HEIGHT="296.75096678421" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.344658498007212" LOCALSCY="0.344658498007212" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L350.575 0 L350.575 296.751 L0 296.751 L0 0 Z" copath="M0 0 L350.575 0 L350.575 296.751 L0 296.751 L0 0 Z" gXpos="13.5709001243264" gYpos="3.54241904258197" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="12033.5" OwnPage="13" ItemID="658290094" PTYPE="4" WIDTH="355.053" HEIGHT="258.714285714286" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 258.714 L0 258.714 L0 0 Z" copath="M0 -3.71653 L355 -3.05062 L354.022 262.967 L0 262.707 L0 -3.71653 Z" gXpos="0" gYpos="77.0000000000018" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
+                <ITEXT CH=": ›Francja (gracz niebieski) chce użyć akcji "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" CH="Wpływy"/>
+                <ITEXT CH=", aby zwiększyć swoje wpływy dyplomatyczne we Włoszech. Postanawia umieścić 2 dodatkowe "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" w "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Lombardii"/>
+                <ITEXT CH=", gdzie ma już 1"/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=". Oznacza to, że w "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Lombardii"/>
+                <ITEXT CH=" znajduje się teraz w sumie 5"/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH="; nie można umieścić tu więcej "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" bez uprzedniego usunięcia żetonów. "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Środkowe Włochy"/>
+                <ITEXT CH=" oraz "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Korsyka i Sardynia"/>
+                <ITEXT CH=" sąsiadują zarówno z pierwszym francuskim "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" w "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Lombardii"/>
+                <ITEXT CH=", jak i z francuskim "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" i "/>
+                <ITEXT CPARENT="EU symbole" CH="t"/>
+                <ITEXT CH=" w "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Langwedocji"/>
+                <ITEXT CH=", więc ›Francja decyduje się umieścić po 1"/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" w każdym z tych obszarów. ›Francja wydaje 2"/>
+                <ITEXT CPARENT="EU symbole" CH="b"/>
+                <ITEXT CH=" i 6"/>
+                <ITEXT CPARENT="EU symbole" CH="d"/>
+                <ITEXT CH=", aby zapłacić za te "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=". Żadne "/>
+                <ITEXT CPARENT="EU symbole" CH="I"/>
+                <ITEXT CH=" nie może być umieszczone w "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Naples"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Dalmacji"/>
+                <ITEXT CH=", ponieważ te obszary są poza zasięgiem ›Francji."/>
+                <para PARENT="Domyślny kursywa 11"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="318.515955242437" YPOS="12036.344486144" OwnPage="13" ItemID="659160062" PTYPE="2" WIDTH="350.575" HEIGHT="146.655513855998" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.366638784639995" LOCALSCY="0.366638784639995" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L350.575 0 L350.575 146.656 L0 146.656 L0 0 Z" copath="M0 0 L350.575 0 L352.666 151.987 L0.736013 151.569 L0 0 Z" gXpos="6.48428595109806" gYpos="79.8444861440232" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="12394.7995433071" OwnPage="14" ItemID="656919310" PTYPE="4" WIDTH="538.584" HEIGHT="785.197913385827" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L181.791 0 L538.584 1.12012 L538.584 530.684 L538.584 785.198 L0 785.198 L0 0 Z" copath="M0 0 L538.584 0 L538.584 785.197 L0 785.197 L0 0 Z" gXpos="128.34662992126" gYpos="48.3472598425209" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="643800766"/>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="12730.25" OwnPage="14" ItemID="658853950" PTYPE="4" WIDTH="355.053" HEIGHT="447.027139797742" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 447.027 L0 447.027 L0 0 Z" copath="M0 -6.42171 L355 -5.27111 L354.953 445.75 L-1.98952e-13 446.35 L0 -6.42171 Z" gXpos="-183.685039370079" gYpos="-108.139448818898" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
+                <ITEXT CH=": ›Anglia (czerwony gracz), podejmuje Akcję Handlu. Dobiera 3 Karty Handlu i rozważa swoje opcje. Normalnie mogliby handlować żywym inwentarzem na Morzu Północnym "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=", ale ponieważ ich Kupiec został już tam aktywowany, nie będą mogli tego zrobić ponownie w tej Rundzie. Ameryka Północna "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=" jest obecnie odcięta od Londynu, ponieważ w żadnej ze Stref Morskich "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Morza Karaibskiego"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Północno-Zachodniego"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Wschodniego"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Północno-Wschodniego"/>
+                <ITEXT CH=" nie ma Statków."/>
+                <para PARENT="Domyślny kursywa 11"/>
+                <ITEXT CH="To pozostawia gracza z kartą „Ubrania”, ›Anglia może handlować zarówno w Szampanii "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=", jak i na Kanale Angielskim "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=" (połączenia z ›Angielskim Obszarem Stołecznym zaznaczone żółtymi strzałkami). Aby handlować w Szampanii "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=", gracz musiałby poruszyć tam swojego Kupca (z Kanału Angielskiego "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH="), ale ponieważ nie posiada żadnej z wymienionych Kluczowych Prowincji dla Szampanii "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=", będzie miał tylko 1 Siłę Handlową w tym węźle (za Kupca), co da dochód 5"/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="D"/>
+                <ITEXT CH="."/>
+                <para PARENT="Domyślny kursywa 11"/>
+                <ITEXT CH="W Angielskim Kanale "/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="N"/>
+                <ITEXT CH=" mogą jednak uzyskać Siłę Handlową równą 6 (kupiec + 3 Statki + 2 Kluczowe Prowincje "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery żółte" CH="C"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery żółte" CH="D"/>
+                <ITEXT CH="), przesuwając swój statek z "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Morza Norweskiego"/>
+                <ITEXT CH=" na np. "/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="90" CH="Ławicę Dogger"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Domyślny kapitaliki 11" SCALEH="85" CH="Doggerbank"/>
+                <ITEXT CH="). Żeton Rozszerzonego Handlu umożliwia zebranie dochodu z czerwonej kolumny, co daje imponującą sumę 14"/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="D"/>
+                <ITEXT CH=". ›Francja ma tam również kupca i sąsiadujący Statek i zbierze 6"/>
+                <ITEXT CPARENT="EU symbole 10pt" CH="D"/>
+                <ITEXT CH="."/>
+                <para PARENT="Domyślny kursywa 11"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.917530045587" YPOS="12734.25" OwnPage="14" ItemID="673225630" PTYPE="2" WIDTH="332.621052631579" HEIGHT="244.487007874017" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.332183434611436" LOCALSCY="0.332183434611436" LOCALX="31.1811023622047" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L332.621 0 L332.621 244.487 L0 244.487 L0 0 Z" copath="M0 0 L332.621 0 L332.749 248.75 L-0.250863 249.083 L0 0 Z" gXpos="-170.114139245752" gYpos="-104.139448818938" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="438.678251968503" YPOS="12557.1214173228" OwnPage="14" ItemID="670315518" PTYPE="2" WIDTH="43.9999999999999" HEIGHT="44.5" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.313380281690141" LOCALSCY="0.313380281690141" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44 0 L44 44.5 L0 44.5 L0 0 Z" copath="M-2.84157 0.169291 L44 0 L44 44.5 L-3.04157 44.5693 L-2.84157 0.169291 Z" gXpos="438.678251968503" gYpos="10793.3425196851" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="497.142857142857" YPOS="12977.1467941507" OwnPage="14" ItemID="668985550" PTYPE="4" WIDTH="169.787363329584" HEIGHT="194.857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Grey 85" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.787 0 L169.787 194.857 L0 194.857 L0 0 Z" copath="M0 0 L169.787 0 L169.787 194.857 L0 194.857 L0 0 Z" gXpos="497.142857142857" gYpos="12977.1467941507" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Tajne Akcje"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="EU symbole" CH="∞"/>
+                <ITEXT CH=")"/>
+                <para PARENT="Domyślny szare tło"/>
+                <ITEXT SCALEH="100" CH="Niektóre Akcje Dyplomatyczne i Karty Akcji są oznaczone ikoną "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="100" CH="∞"/>
+                <ITEXT SCALEH="100" CH=" oznaczającą "/>
+                <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="100" CH="Tajne Akcje"/>
+                <ITEXT SCALEH="100" CH=". Są to niegodziwe Akcje, wymierzone w inne Królestwa, można im przeciwdziałać za pomocą karty Kontrwywiadu."/>
+                <para/>
+                <ITEXT CH="Oto dostępne "/>
+                <ITEXT CPARENT="Domyślny kursywa 11" CH="Tajne Akcje"/>
+                <ITEXT CH=":"/>
+                <para/>
+                <ITEXT SCALEH="96" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" SCALEH="94" CH="Sfabrykuj Roszczenia"/>
+                <ITEXT SCALEH="94" CH=" (Akcja Podstawowa)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="93" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" SCALEH="90" CH="Wsparcie Buntowników"/>
+                <ITEXT SCALEH="90" CH=" (Siatka szpiegowska)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="93" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" SCALEH="92" CH="Sianie Niezadowolenie"/>
+                <ITEXT SCALEH="92" CH=" (Siatka szpiegowska)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="96" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" SCALEH="96" CH="Niszczenie Reputacji"/>
+                <ITEXT SCALEH="96" CH=" (Siatka szpiegowska)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="100" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" CH="Nowy Sojusz"/>
+                <ITEXT SCALEH="100" CH=" (Karta Akcji)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="100" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" CH="Badanie Technologii"/>
+                <ITEXT SCALEH="100" CH=" (Karta Akcji)"/>
+                <para PARENT="Domyślny bez wcięcia 10pt"/>
+                <ITEXT SCALEH="100" CH="- "/>
+                <ITEXT CPARENT="Domyślny pogrubiona kursywa 10" CH="Kontrwywiad"/>
+                <ITEXT SCALEH="100" CH=" (Karta Akcji)"/>
+                <trail PARENT="Domyślny bez wcięcia 10pt"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="253.44157480315" YPOS="12245.3973228347" OwnPage="13" ItemID="656597038" PTYPE="2" WIDTH="43.9999999999999" HEIGHT="44.5" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.57051282051282" LOCALSCY="0.57051282051282" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44 0 L44 44.5 L0 44.5 L0 0 Z" copath="M-2.84157 0.169291 L44 0 L44 44.5 L-3.04157 44.5693 L-2.84157 0.169291 Z" gXpos="253.44157480315" gYpos="11363.5078740158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="13179.9973070866" OwnPage="14" ItemID="131961774" PTYPE="4" WIDTH="169.553606299213" HEIGHT="17.5978335208094" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" copath="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" gXpos="128.34662992126" gYpos="833.545023622048" gWidth="0" gHeight="0" PSTYLE="podrozdział nagłówek 15 szary" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
+                <ITEXT CH="europa universalis"/>
+                <trail PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
