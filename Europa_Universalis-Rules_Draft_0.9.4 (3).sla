@@ -581,7 +581,7 @@
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
                 <ITEXT SCALEH="100" CH="Kostki (Siła Monarchii, Wpływy itd.)"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
-                <ITEXT CH="Każdy gracz ma do dyspozycji 30 kostek, które może wykorzystać na Siłę Monarchii, Wpływy, Kolonistów, Kardynałów, wzmocnienie użyć  akcji na Kartach Eksponowanych oraz pokrycie pól dochodu w Prowincjach Okupowanych przez Wrogów. Kiedy graczowi zabraknie kostek, może swobodnie wziąć jedną z nich z dowolnego miejsca poza polem Rzymskiego Kardynała, "/>
+                <ITEXT CH="Każdy gracz ma do dyspozycji 30 kostek, które może wykorzystać na Siłę Monarchii, Wpływy, Kolonistów, Kardynałów, ładunki użyć  akcji na Kartach Eksponowanych oraz pokrycie pól dochodu w Prowincjach Okupowanych przez Wrogów. Kiedy graczowi zabraknie kostek, może swobodnie wziąć jedną z nich z dowolnego miejsca poza polem Rzymskiego Kardynała, "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Zmienionego Celu Narodowego"/>
                 <ITEXT CH=" i kostkami użytymi do zakrycia pól dochodu na swoich Planszach Gracza."/>
                 <para/>
@@ -5540,7 +5540,7 @@
                 <ITEXT CPARENT="EU symbole" CH="D"/>
                 <ITEXT CH=")"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="98" CH="Możesz zmienić Religię danego Obszaru na swoją Religię Państwową, jeśli Posiadasz wszystkie Prowincje w Obszarze (Obszarach) (TO_CHECK) zarządzane przez ich pole Religii lub jeśli Posiadasz przynajmniej jedną z tych Prowincji, a wszystkie pozostałe należą do Królestw o tej samej Religii Państwowej co twoja."/>
+                <ITEXT SCALEH="98" CH="Możesz zmienić Religię danego Obszaru na swoją Religię Państwową, jeśli Posiadasz wszystkie Prowincje w Obszarze(ach) które są przyporządkowane do danego symbolu Religii lub jeśli Posiadasz przynajmniej jedną z tych Prowincji, a wszystkie pozostałe należą do Królestw o tej samej Religii Państwowej co twoja."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="95" CH="Umieść odpowiedni żeton Religii w Obszarze na polu Religii (lub usuń aktualny żeton, aby odsłonić wydrukowany symbol), dodaj "/>
                 <ITEXT CPARENT="EU symbole" SCALEH="95" CH="u"/>
@@ -5722,8 +5722,8 @@
                 <ITEXT CPARENT="Domyślny podkresl" CH="oraz"/>
                 <ITEXT CH=" Kupca (aktywowanego lub nie) w wybranym węźle. Następnie ustal, z których wierszy dochodu Karty Handlu każdy z graczy powinien pobierać dochód. "/>
                 <para PARENT="Lista bez wcięcia numerowana 1,2,3" NumerationName="&lt;local block&gt;"/>
-                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Uprawniony"/>
-                <ITEXT CH=" (TO_CHECK): PR może zbierać Dochód z Handlu tylko w węzłach, które są połączone z Obszarem Stołecznym PR poprzez ciąg Obszarów pośrednich i/lub Stref Morskich, w których znajdują się ich "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Uprawnienie do zbierania Docho-dów z Handlu"/>
+                <ITEXT CH=": PR może zbierać Dochód z Handlu tylko w węzłach, które są połączone z Obszarem Stołecznym PR poprzez ciąg Obszarów pośrednich i/lub Stref Morskich, w których znajdują się ich "/>
                 <ITEXT CPARENT="EU symbole" CH="t"/>
                 <ITEXT CH=", "/>
                 <ITEXT CPARENT="EU symbole" CH="v"/>
@@ -5997,7 +5997,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="141.917530045587" YPOS="12731.4153543307" OwnPage="14" ItemID="98810353" PTYPE="2" WIDTH="332.621052631579" HEIGHT="244.487007874017" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.332183434611436" LOCALSCY="0.332183434611436" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L332.621 0 L332.621 244.487 L0 244.487 L0 0 Z" copath="M0 0 L332.621 0 L332.749 248.75 L-0.250863 249.083 L0 0 Z" gXpos="-170.114139245752" gYpos="-106.974094488229" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="441.512897637794" YPOS="12426.7277165354" OwnPage="14" ItemID="98796641" PTYPE="2" WIDTH="43.9999999999999" HEIGHT="44.5" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.313380281690141" LOCALSCY="0.313380281690141" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44 0 L44 44.5 L0 44.5 L0 0 Z" copath="M-2.84157 0.169291 L44 0 L44 44.5 L-3.04157 44.5693 L-2.84157 0.169291 Z" gXpos="441.512897637794" gYpos="10662.9488188977" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="441.512897637794" YPOS="12440.9009448819" OwnPage="14" ItemID="98796641" PTYPE="2" WIDTH="43.9999999999999" HEIGHT="44.5" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.313380281690141" LOCALSCY="0.313380281690141" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44 0 L44 44.5 L0 44.5 L0 0 Z" copath="M-2.84157 0.169291 L44 0 L44 44.5 L-3.04157 44.5693 L-2.84157 0.169291 Z" gXpos="441.512897637794" gYpos="10677.1220472442" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="13179.9973070866" OwnPage="14" ItemID="98240433" PTYPE="4" WIDTH="169.553606299213" HEIGHT="17.5978335208094" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" copath="M0 0 L169.554 0 L169.554 17.5978 L0 17.5978 L0 0 Z" gXpos="128.34662992126" gYpos="833.545023622048" gWidth="0" gHeight="0" PSTYLE="podrozdział nagłówek 15 szary" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="podrozdział nagłówek 15 szary" ALIGN="1"/>
@@ -6016,11 +6016,37 @@
                 <para PARENT="pod-podrozdział nagłówek kursywa 12" NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Podczas tej Akcji możesz Wypowiedzieć Wojnę dowolnej liczbie Królestw. W ten sposób rozpoczynasz Wojnę z wybranym Królestwem (Królestwami)."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="97" CH="Uwaga"/>
-                <ITEXT SCALEH="97" CH=": Sprawdź ograniczenia DoW (str. "/>
-                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="97" CH="22"/>
-                <ITEXT SCALEH="97" CH="). Zazwyczaj nie możesz Wypowiedzieć Wojny swoim Sojusznikom, nieodkrytym Odległym Królestwom, graczom, którzy Spasowali, członkom HRE, jeśli Cesarz Spasował lub jest twoim Sojusznikiem, Królestwom, z którymi zawarłeś Rozejm, (TO_CHECK) &quot;on the NPR Allies of ineligible PR targets&quot; lub podczas Bezkrólewia."/>
-                <para NumerationName="&lt;local block&gt;"/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="Uwaga"/>
+                <ITEXT SCALEH="95" CH=": Sprawdź ograniczenia DoW (str. "/>
+                <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="95" CH="22"/>
+                <ITEXT SCALEH="95" CH="). Zazwyczaj nie możesz Wypowie-dzieć Wojny "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="a"/>
+                <ITEXT SCALEH="95" CH=") swoim Sojusznikom; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="b"/>
+                <ITEXT SCALEH="95" CH=") Królestwom z którymi zawarłeś Rozejm; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="c"/>
+                <ITEXT SCALEH="95" CH=") PR które Spasowały; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="d"/>
+                <ITEXT SCALEH="95" CH=") NPR, jeśli są sojusznikami PR, którzy spełnili "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="b"/>
+                <ITEXT SCALEH="95" CH=" lub "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="c"/>
+                <ITEXT SCALEH="95" CH="; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="e"/>
+                <ITEXT SCALEH="95" CH=") Członkom HRE będącym w Pokoju z Cesarzem jeśli cesarz spełnił "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="a"/>
+                <ITEXT SCALEH="95" CH=", "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="b"/>
+                <ITEXT SCALEH="95" CH=" lub "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="c"/>
+                <ITEXT SCALEH="95" CH="; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="f"/>
+                <ITEXT SCALEH="95" CH=") Odległym Królestwom bez "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="95" CH="G"/>
+                <ITEXT SCALEH="95" CH="; "/>
+                <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="g"/>
+                <ITEXT SCALEH="95" CH=") podczas Bezkrólewia."/>
+                <para/>
                 <ITEXT CH="Zapłać koszt Akcji, a następnie wykonaj kolejno następujące kroki:"/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Wyznacz Królestwo(a), które będą celem twojego DoW i umieść żeton Wojny na Stolicy każdego z nich."/>
@@ -6134,9 +6160,7 @@
                 <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="95" CH="25"/>
                 <ITEXT SCALEH="95" CH="): Wybierz jeden cel (Strefę Morską lub Przyjazny Port), a następnie przemieść do niego dowolną liczbę Statków znajdujących się w zasięgu. Floty i Statki mogą poruszyć się o maksymalnie 2 pola."/>
                 <para PARENT="Lista -1 z wcięciem punktowana •" NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="91" CH="Możesz wybrać Wrogą Strefę Morską (zawierającą Wrogie Statki lub "/>
-                <ITEXT SCALEH="100" CH="(TO_CHECK)"/>
-                <ITEXT SCALEH="91" CH=" zwróconą w stronę Wrogich Portów NPR), w którym to przypadku odbędzie się tam Bitwa Morska (patrz str. "/>
+                <ITEXT SCALEH="91" CH="Możesz wybrać Wrogą Strefę Morską (zawierającą Wrogie Statki lub przyległą do Wrogich Portów NPR), w którym to przypadku odbędzie się tam Bitwa Morska (patrz str. "/>
                 <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="91" CH="28"/>
                 <ITEXT SCALEH="91" CH=").** Statki w drodze nie mogą przechodzić przez Wrogie Strefy Morskie."/>
                 <para PARENT="Lista -1 z wcięciem BEZ  punktowana" NumerationName="&lt;local block&gt;"/>
@@ -7164,7 +7188,7 @@
                 <para/>
                 <ITEXT SCALEH="92" CH="Używając Pomniejszej Akcji "/>
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" SCALEH="92" CH="Mianuj Doradcę/Przywódcę"/>
-                <ITEXT SCALEH="92" CH=", Władca może również zostać wyznaczony, za darmo, do dowodzenia Armią. W takim przypadku umieść żeton Generała/ogólny (TO_CHECK) Władcy na swojej Planszy Armii."/>
+                <ITEXT SCALEH="92" CH=", Władca może również zostać wyznaczony, za darmo, do dowodzenia Armią. W takim przypadku umieść żeton Generała Władcy na swojej Planszy Armii."/>
                 <para/>
                 <ITEXT CH="Królestwo nie może mieć więcej niż 1 Władcy w danym momencie."/>
                 <para/>
@@ -7472,7 +7496,7 @@
                 <para PARENT="podrozdział nagłówek 15 czerw"/>
                 <ITEXT CH="Wszystkie Prowincje na mapie, na których znajduje się flaga danego Królestwa, są uważane za "/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Prowincje Kluczowe"/>
-                <ITEXT CH=" tego Królestwa. Ma to zastosowanie bez względu na to, kto aktualnie jest właścicielem danej Prowincji, (TO_CHECK) ale jest nadpisywane przez wszelkie "/>
+                <ITEXT CH=" tego Królestwa. Ma to zastosowanie bez względu na to, kto aktualnie jest właścicielem danej Prowincji, ale jest nadpisywane przez wszelkie "/>
                 <ITEXT CPARENT="EU symbole" CH="æ"/>
                 <ITEXT CH=" na Prowincji lub "/>
                 <ITEXT CPARENT="EU symbole" CH="F"/>
@@ -7891,7 +7915,7 @@
                 <ITEXT CH=": inne Królestwa Muzułmańskie"/>
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Rewolucyjne PR"/>
-                <ITEXT CH=" (TO_CHECK): brak Królestw."/>
+                <ITEXT CH=": brak Królestw."/>
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
                 <ITEXT CH="Sporna Sukcesja ("/>
                 <ITEXT CPARENT="EU symbole" CH="L"/>
@@ -8209,7 +8233,7 @@
                 <ITEXT CPARENT="EU symbole" SCALEH="100" CH="M"/>
                 <ITEXT SCALEH="100" CH="."/>
                 <para/>
-                <ITEXT SCALEH="100" CH="Możesz bezpośrednio Anektować Sojusznika z (TO_CHECK) Dochodem z Podatków =1 bez wcześniejszego Wasalizowania go."/>
+                <ITEXT SCALEH="100" CH="Możesz bezpośrednio Anektować Sojusznika (państwo-miasto) z Dochodem z Podatków =1 bez wcześniejszego Wasalizowania go."/>
                 <para/>
                 <ITEXT SCALEH="96" CH="Aby zagrać kartę "/>
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" SCALEH="96" CH="Podporządkowanie"/>
@@ -10306,12 +10330,13 @@
                 <para/>
                 <ITEXT CH="Wymienić dowolną z tych Prowincji na dowolną Prowincję o takiej samej Wartości Podatkowej, którą aktualnie zajmuje Przegrany."/>
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
-                <ITEXT CH="Zwrócić dowolną z tych Prowincji i zażądać, aby Przegrany zapłacił mu 3D za każdą Wartość Podatkową zwracanych Prowincji. "/>
-                <ITEXT SCALEH="95" CH="(TO_CHECK)"/>
+                <ITEXT CH="Zwrócić dowolną z tych Prowincji i zażądać, aby Przegrany zapłacił mu 3"/>
+                <ITEXT CPARENT="EU symbole" CH="D"/>
+                <ITEXT CH=" za każdą Wartość Podatkową zwracanych Prowincji."/>
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
                 <ITEXT SCALEH="94" CH="Wyzwól (patrz str. "/>
                 <ITEXT CPARENT="EU cyfry kwadrat i litery" SCALEH="94" CH="37"/>
-                <ITEXT SCALEH="94" CH=") dowolną z tych Prowincji, która nie są Prowincjami Kluczowymi Przegranego i zdobądź 1 za każdą Wyzwoloną Wartość Podatkową (TO_CHECK). Zwycięzca może również zawrzeć Sojusz z "/>
+                <ITEXT SCALEH="94" CH=") dowolną z tych Prowincji, która nie są Prowincjami Kluczowymi Przegranego i zdobądź 1 za każdą Wyzwoloną Wartość Podatkową. Zwycięzca może również zawrzeć Sojusz z "/>
                 <ITEXT CPARENT="EU symbole" SCALEH="94" CH="1"/>
                 <ITEXT SCALEH="94" CH=" Wyzwolonym NPR i umieścić 2"/>
                 <ITEXT CPARENT="EU symbole" SCALEH="94" CH="I"/>
@@ -10521,11 +10546,11 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="264" YPOS="12146.1847244095" OwnPage="13" ItemID="149392801" PTYPE="2" WIDTH="33.4415748031499" HEIGHT="31.3526771652996" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.401957399555123" LOCALSCY="0.401957399555123" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p15-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L33.4416 0 L33.4416 31.3527 L0 31.3527 L0 0 Z" copath="M-2.15969 0.119275 L33.4416 0 L33.4416 31.3527 L-2.3117 31.4015 L-2.15969 0.119275 Z" gXpos="264" gYpos="11264.2952755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="269.25" YPOS="27444.9205511811" OwnPage="31" ItemID="263526897" PTYPE="2" WIDTH="28.5" HEIGHT="28.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.343373493975904" LOCALSCY="0.343373493975904" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L28.5 0 L28.5 28.5 L0 28.5 L0 0 Z" copath="M0 0 L28.5 0 L28.5 28.5 L0 28.5 L0 0 Z" gXpos="269.25" gYpos="27444.9205511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="451.458930989721" YPOS="27777.7688458025" OwnPage="31" ItemID="264075841" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.255138779527715" LOCALSCY="0.255138779527715" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img3.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M0 0 L41.6778 0 L41.6778 40.8222 L0 40.8222 L0 0 Z" gXpos="451.458930989721" gYpos="27777.7688458025" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="451.458930989721" YPOS="27769.2649087946" OwnPage="31" ItemID="264075841" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.255138779527715" LOCALSCY="0.255138779527715" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img3.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M0 0 L41.6778 0 L41.6778 40.8222 L0 40.8222 L0 0 Z" gXpos="451.458930989721" gYpos="27769.2649087946" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="268.90774988736" YPOS="27925.1704206056" OwnPage="31" ItemID="264326577" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.245085293610593" LOCALSCY="0.245085293610593" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img2.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M0 0 L41.6778 0 L41.6778 40.8222 L0 40.8222 L0 0 Z" gXpos="268.90774988736" gYpos="27925.1704206056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="451.458930989721" YPOS="27984.6979796607" OwnPage="31" ItemID="244717329" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.264957074173614" LOCALSCY="0.264957074173614" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img4.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="451.458930989721" gYpos="27984.6979796607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="258.70302547791" YPOS="28750.3669560387" OwnPage="32" ItemID="252479825" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.254634071283733" LOCALSCY="0.254634071283733" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img5.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="258.70302547791" gYpos="27868.4775072198" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="445.789639651138" YPOS="28931.7842788734" OwnPage="32" ItemID="239640273" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.250222024045807" LOCALSCY="0.250222024045807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img6.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="445.789639651138" gYpos="28049.8948300545" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="451.458930989721" YPOS="27950.6822316292" OwnPage="31" ItemID="244717329" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.264957074173614" LOCALSCY="0.264957074173614" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img4.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="451.458930989721" gYpos="27950.6822316292" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="258.70302547791" YPOS="28713.5165623379" OwnPage="32" ItemID="252479825" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.254634071283733" LOCALSCY="0.254634071283733" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img5.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="258.70302547791" gYpos="27831.627113519" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="445.789639651138" YPOS="28914.7764048576" OwnPage="32" ItemID="239640273" PTYPE="2" WIDTH="40.0355238473291" HEIGHT="39.2136469776949" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.250222024045807" LOCALSCY="0.250222024045807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p32-img6.png" IRENDER="0" EMBEDDED="0" path="M40.0355 19.6068 C40.0355 30.4358 31.0737 39.2136 20.0178 39.2136 C8.96226 39.2136 0 30.4358 0 19.6068 C0 8.77827 8.96226 0 20.0178 0 C31.0737 0 40.0355 8.77827 40.0355 19.6068 Z" copath="M-0.852684 -0.81208 L42.5174 -0.81208 L42.5174 41.6677 L-0.852684 41.6677 L-0.852684 -0.81208 Z" gXpos="445.789639651138" gYpos="28032.8869560388" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="29150.6990708662" OwnPage="33" ItemID="249614417" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000018" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.81899e-11 L181.791 1.81899e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.81899e-11 Z" copath="M0 1.81899e-11 L538.584 1.81899e-11 L538.584 785.197 L0 785.197 L0 1.81899e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425027" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="129680193"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="30032.5885196851" OwnPage="34" ItemID="234350193" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000018" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.81899e-11 L181.791 1.81899e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.81899e-11 Z" copath="M0 1.81899e-11 L538.584 1.81899e-11 L538.584 785.197 L0 785.197 L0 1.81899e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425027" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
