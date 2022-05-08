@@ -305,8 +305,9 @@
             <Subset Name="Arno Pro Bold"/>
             <Subset Name="Arno Pro Bold 12pt"/>
             <Subset Name="Arno Pro Bold Italic 12pt"/>
+            <Subset Name="Arno Pro Italic"/>
             <Subset Name="Arno Pro Italic 12pt"/>
-            <Subset Name="Arno Pro Regular"/>
+            <Subset Name="Arno Pro Regular 12pt"/>
             <Subset Name="Bundesbahn Pi Std 1"/>
             <Subset Name="Katalogziffern Negativ BQ Regular"/>
             <Subset Name="Trajan Pro Bold"/>
@@ -580,7 +581,7 @@
                 <para PARENT="Punktowanie bez wcięcia czarne"/>
                 <ITEXT SCALEH="100" CH="Kostki (Siła Monarchii, Wpływy itd.)"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
-                <ITEXT CH="Każdy gracz ma do dyspozycji 30 kostek, które może wykorzystać na Siłę Monarchii, Wpływy, Kolonistów, Kardynałów, wzmocnienie użyć  (opcji? TO_CHECK) na Kartach Ekspozycji oraz pokrycie pól dochodu w Prowincjach Okupowanych przez Wrogów. Kiedy graczowi zabraknie kostek, może swobodnie wziąć jedną z nich z dowolnego miejsca poza polem Rzymskiego Kardynała, "/>
+                <ITEXT CH="Każdy gracz ma do dyspozycji 30 kostek, które może wykorzystać na Siłę Monarchii, Wpływy, Kolonistów, Kardynałów, wzmocnienie użyć  akcji na Kartach Eksponowanych oraz pokrycie pól dochodu w Prowincjach Okupowanych przez Wrogów. Kiedy graczowi zabraknie kostek, może swobodnie wziąć jedną z nich z dowolnego miejsca poza polem Rzymskiego Kardynała, "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Zmienionego Celu Narodowego"/>
                 <ITEXT CH=" i kostkami użytymi do zakrycia pól dochodu na swoich Planszach Gracza."/>
                 <para/>
@@ -740,7 +741,7 @@
                 <ITEXT CH=" Akcja Bitewna"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" FONT="ZQTHMO+ThePriceOfPowerRegular Regular" CH="™"/>
-                <ITEXT CH=" Karta Ekspozycji"/>
+                <ITEXT CH=" Karta Eksponowana"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" CH="∞"/>
                 <ITEXT CH=" Tajne Akcja"/>
@@ -771,8 +772,9 @@
                 <ITEXT CH="NPR Niezależne Królestwo"/>
                 <para/>
                 <ITEXT CH="DNPR "/>
-                <ITEXT SCALEH="86" CH="Dynamiczne Niezależne Królestwo"/>
-                <para/>
+                <ITEXT SCALEH="87" CH="D"/>
+                <ITEXT SCALEH="93" CH="ynamiczne Niezależne Królestwo"/>
+                <para PARENT="Domyślny bez wcięcia 11pt"/>
                 <ITEXT CH="HRE"/>
                 <tab/>
                 <ITEXT CH=" Święte Cesarstwo Rzymskie"/>
@@ -4648,7 +4650,9 @@
                 <para PARENT="pod-podrozdział nagłówek 13" NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="100" SCALEV="110" CH="Wszyscy gracze muszą odrzucić do maksymalnej liczby 5 Kart Akcji na ręce. Gracze mogą wybrać, którą kartę (karty) chcą odrzucić."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEV="110" CH="Karty Ekspozycji, które są w grze, nie liczą się do limitu 5 kart."/>
+                <ITEXT SCALEV="110" CH="Karty "/>
+                <ITEXT CH="Eksponowan"/>
+                <ITEXT SCALEV="110" CH="e w grze, nie liczą się do limitu 5 kart."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEV="110" CH="D. Procedura zakończenia Ery"/>
                 <para PARENT="pod-podrozdział nagłówek 13" NumerationName="&lt;local block&gt;"/>
@@ -6897,13 +6901,13 @@
                 <para PARENT="Rozdział linia d"/>
                 <ITEXT SCALEH="97" CH="Karty Akcji działają bardzo podobnie do Akcji Podstawowych. Zagranie Karty Akcji zajmuje całą Turę (o ile nie określono inaczej), nie licząc Pomniejszych Akcji."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="93" CH="Koszt Siły Monarchii ("/>
-                <ITEXT CPARENT="EU symbole" SCALEH="93" CH="d"/>
-                <ITEXT SCALEH="93" CH=") związany z zagraniem Karty Akcji jest wskazany w lewym górnym rogu karty i zawsze należy do rodzaju powiązanego z talią, do której należy dana karta. Niektóre karty posiadają również koszt wyrażony w Dukatach, który także należy zapłacić. Koszt zagrania Karty Akcji (lub Akcji na Karcie Ekspozycji) nigdy nie może spaść poniżej 0; to znaczy, nigdy nie możesz otrzymać "/>
-                <ITEXT CPARENT="EU symbole" SCALEH="93" CH="d"/>
-                <ITEXT SCALEH="93" CH=" za zagranie Karty Akcji."/>
+                <ITEXT SCALEH="92" CH="Koszt Siły Monarchii ("/>
+                <ITEXT CPARENT="EU symbole" SCALEH="92" CH="d"/>
+                <ITEXT SCALEH="92" CH=") związany z zagraniem Karty Akcji jest wskazany w lewym górnym rogu karty i zawsze należy do rodzaju powiązanego z talią, do której należy dana karta. Niektóre karty posiadają również koszt wyrażony w Dukatach, który także należy zapłacić. Koszt zagrania Karty Akcji (lub Akcji na Karcie Eksponowanej) nigdy nie może spaść poniżej 0; to znaczy, nigdy nie możesz otrzymać "/>
+                <ITEXT CPARENT="EU symbole" SCALEH="92" CH="d"/>
+                <ITEXT SCALEH="92" CH=" za zagranie Karty Akcji."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="94" CH="Kiedy zgrywasz kartę w ramach Akcji, od razu rozpatrz jej efekt, a następnie odrzuć tę kartę (chyba że jest to Karta Ekspozycji)."/>
+                <ITEXT SCALEH="93" CH="Kiedy zgrywasz kartę w ramach Akcji, od razu rozpatrz jej efekt, a następnie odrzuć tę kartę (chyba że jest to Karta Eksponowana)."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT SCALEH="96" CH="Wszystkie Karty Akcji są dwu-funkcyjne. Możesz zagrać kartę, aby wykonać jej Akcję "/>
                 <ITEXT CPARENT="Domyślny podkresl" CH="lub"/>
@@ -6955,17 +6959,21 @@
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="6.2 Karty Specjalne"/>
                 <para PARENT="podrozdział nagłówek 15 czerw"/>
-                <ITEXT CH="Karty Ekspozycji ("/>
+                <ITEXT CH="Karty  Eksponowane("/>
                 <ITEXT CPARENT="EU symbole" CH="™"/>
                 <ITEXT CH=")"/>
                 <para PARENT="pod-podrozdział nagłówek kursywa 12"/>
-                <ITEXT SCALEH="100" CH="Karty Ekspozycji są oznaczone ikoną "/>
+                <ITEXT SCALEH="100" CH="Karty "/>
+                <ITEXT CH="Eksponowan"/>
+                <ITEXT SCALEH="100" CH="e są oznaczone ikoną "/>
                 <ITEXT CPARENT="EU symbole" SCALEH="100" CH="™"/>
                 <ITEXT SCALEH="100" CH=" w prawym górnym rogu. Działają one inaczej niż pozostałe Karty Akcji, ponieważ podczas zagrywania są umieszczane odkryte, wraz z pewną liczbą "/>
                 <ITEXT CPARENT="EU symbole" CH="z"/>
                 <ITEXT SCALEH="100" CH=" z twoich Zasobów odpowiadającą ilości kwadratów przedstawionych na karcie. Rzadko mają jakikolwiek inny wpływ na Turę, w której są zagrywane."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="92" CH="W kolejnych Turach, gdy znajduje się na stole, odsłonięta Karta Ekspozycji udostępnia, graczowi który ją zagrał, Akcje wymienione na karcie. Te Akcje działają tak samo, jak inne Akcje w grze, mają koszt w "/>
+                <ITEXT SCALEH="92" CH="W kolejnych Turach, gdy znajduje się na stole, odsłonięta Karta "/>
+                <ITEXT CH="Eksponowana"/>
+                <ITEXT SCALEH="92" CH=" udostępnia, graczowi który ją zagrał, Akcje wymienione na karcie. Te Akcje działają tak samo, jak inne Akcje w grze, mają koszt w "/>
                 <ITEXT CPARENT="EU symbole" CH="d"/>
                 <ITEXT SCALEH="92" CH=" i zwykle wymagają Tury do wykonania. Niektóre z nich są oznaczone jako "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Akcje Bitewne"/>
@@ -6973,16 +6981,18 @@
                 <ITEXT CPARENT="Domyślny kursywa 11" CH="Reakcje"/>
                 <ITEXT SCALEH="92" CH=" i tak są traktowane."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="94" CH="Za każdym razem, gdy wykonujesz jedną z Akcji z Karty Ekspozycji, usuń "/>
+                <ITEXT SCALEH="94" CH="Za każdym razem, gdy wykonujesz jedną z Akcji z Karty "/>
+                <ITEXT CH="Eksponowan"/>
+                <ITEXT SCALEH="94" CH="ej, usuń "/>
                 <ITEXT CPARENT="EU symbole" SCALEH="94" CH="z"/>
                 <ITEXT SCALEH="94" CH=" (1 lub więcej, jeśli tak mówi tekst) z tej karty."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Po użyciu ostatniego "/>
                 <ITEXT CPARENT="EU symbole" CH="z"/>
-                <ITEXT CH=" z Karty Ekspozycji, odrzuć ją."/>
+                <ITEXT CH=" z Karty Eksponowanej, odrzuć ją."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="100" CH="Uwaga"/>
-                <ITEXT SCALEH="100" CH=": w danej chwili w grze możesz mieć maksymalnie 2 Karty Ekspozycji, ale nigdy 2 takie same. Jeśli zagrasz Kartę Ekspozycji, gdy masz już 2 w grze, odrzuć 1 z nich."/>
+                <ITEXT SCALEH="100" CH=": w danej chwili w grze możesz mieć maksymalnie 2 Karty Eksponowane i nigdy 2 takie same. Jeśli zagrasz Kartę Eksponowaną, gdy masz już 2 w grze, odrzuć 1 z nich."/>
                 <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CH="Akcje Bitewne ("/>
                 <ITEXT CPARENT="EU symbole" CH="€"/>
@@ -7025,7 +7035,9 @@
                 <para PARENT="pod-podrozdział nagłówek 13"/>
                 <ITEXT SCALEH="100" CH="Talia Dyplomatyczna zawiera pewną liczbę Kart Akcji (oraz Akcji "/>
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" SCALEH="100" CH="Siatki Szpiegowskiej"/>
-                <ITEXT SCALEH="100" CH=" na Karcie Ekspozycji), które są oznaczone jako "/>
+                <ITEXT SCALEH="100" CH=" na Karcie "/>
+                <ITEXT CH="Eksponowan"/>
+                <ITEXT SCALEH="100" CH="ej), które są oznaczone jako "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="100" CH="Tajne Akcje"/>
                 <ITEXT SCALEH="100" CH=" z ikoną ∞. Podobnie jak inne "/>
                 <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="100" CH="Tajne Akcje"/>
@@ -7035,12 +7047,12 @@
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" CH="Kontrwywiadu"/>
                 <ITEXT SCALEH="100" CH="."/>
                 <para NumerationName="&lt;local block&gt;"/>
-                <ITEXT SCALEH="92" CH="Jeśli karta zostanie skontrowana, należy ją odrzucić, a jej koszt nadal musi zostać opłacony. Jeśli "/>
-                <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="92" CH="Tajna Akcja"/>
-                <ITEXT SCALEH="92" CH=" z Karty Ekspozycji zostanie powstrzymana, liczba dostępnych użyć ("/>
-                <ITEXT CPARENT="EU symbole" SCALEH="92" CH="z"/>
-                <ITEXT SCALEH="92" CH=") nadal jest zmniejszana."/>
-                <para/>
+                <ITEXT SCALEH="91" CH="Jeśli karta zostanie skontrowana, należy ją odrzucić, a jej koszt nadal musi zostać opłacony. Jeśli "/>
+                <ITEXT CPARENT="Domyślny kursywa 11" SCALEH="91" CH="Tajna Akcja"/>
+                <ITEXT SCALEH="91" CH=" z Karty Eksponowanej zostanie powstrzymana, liczba dostępnych użyć ("/>
+                <ITEXT CPARENT="EU symbole" SCALEH="91" CH="z"/>
+                <ITEXT SCALEH="91" CH=") nadal jest zmniejszana."/>
+                <para NumerationName="&lt;local block&gt;"/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
                 <ITEXT CH=": ›Francja ma na ręce kartę Tajnej Akcji "/>
                 <ITEXT CPARENT="Domyślny pogrubiona kursywa 11" CH="Nowy Sojusz"/>
@@ -8586,7 +8598,9 @@
                 <DefaultStyle ALIGN="0"/>
                 <ITEXT SCALEH="100" CH="Typ karty"/>
                 <breakline/>
-                <ITEXT SCALEH="90" CH="(Karta Ekspozycji)"/>
+                <ITEXT SCALEH="90" CH="(Karta "/>
+                <ITEXT CH="Eksponowana"/>
+                <ITEXT SCALEH="90" CH=")"/>
                 <para PARENT="Domyślny bez wcięcia 8pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
