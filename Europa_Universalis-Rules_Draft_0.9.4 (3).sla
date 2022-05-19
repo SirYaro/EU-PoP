@@ -694,13 +694,13 @@
                 <para/>
                 <ITEXT CH="Punktem rozpoczynającym pierwszą erę gry "/>
                 <ITEXT CPARENT="Domyślny pochyły" CH="Europa Universalis: Cena władzy"/>
-                <ITEXT CH=" jest rok 1444, tuż po bitwie pod Warną, w której Osmanowie odnieśli decydujące zwycięstwo nad połączonymi siłami chrześcijańskich krzyżowców. Europa wkrótce opuści Średniowiecze i wkroczy w epokę wczesnonowożytną. Świat ulegnie zmianom, jakich nie widziano nigdy wcześniej. Cywilizacje w różnych częściach globu nie będą już istnieć w oddzielnych sferach, z ograniczonym lub żadnym kontaktem ze światem zewnętrznym. Życie ludzi na całej planecie zostanie nieodwracalnie splecione w skomplikowaną globalną sieć polityki mocarstwowej, ekspansji imperialistycznej, kolonizacji, handlu i wymiany kulturowej, a także wojen i epidemii o katastrofalnych skutkach."/>
+                <ITEXT CH=" jest rok 1444, tuż po bitwie pod Warną, w której Osmanowie odnieśli decydujące zwycięstwo nad połączonymi siłami chrześcijańskich krzyżowców. Europa wkrótce opuści Średniowiecze i wkroczy w epokę wczesnonowożytną. Świat ulegnie zmianom, jakich nie widziano nigdy wcześniej. Cywilizacje w różnych częściach globu nie będą już istnieć w oddzielnych sferach, z ograniczonym lub żadnym kontaktem ze światem zewnętrznym. Życie ludzi na całej planecie zostanie nieodwracalnie wplecione w skomplikowaną globalną sieć polityki mocarstwowej, ekspansji imperialistycznej, kolonizacji, handlu i wymiany kulturowej, a także wojen i epidemii o katastrofalnych skutkach."/>
                 <para/>
                 <ITEXT CH="W tym samym czasie nauka, filozofia polityczna i technologia zaczęły się rozwijać w tempie niespotykanym wcześniej w historii ludzkości. Miało to wpływ na działania wojenne, formy rządów i instytucje religijne, a także na codzienne życie zwykłych ludzi, w sposób, którego nikt nie mógł przewidzieć w chwili, gdy wszystko to się zaczęło."/>
                 <para/>
                 <ITEXT CH="Podczas gdy niektóre państwa rozkwitały w tym środowisku, a nawet wyrastały na pozycje globalnej dominacji, inne cywilizacje cierpiały i niemal całkowicie zanikały. Wiele z tego, co kolonialne i imperialistyczne potęgi tamtej epoki robiły w walce o chwałę i bogactwo, jest oczywiście bardzo problematyczne, gdy patrzy się na to z dzisiejszej perspektywy. Znajomość wielu kluczowych wydarzeń i osiągnięć z tamtego okresu jest jednak zasadnicza dla zrozumienia, jak doszło do tego, że znajdujemy się tu i teraz."/>
                 <para/>
-                <ITEXT CH="W grze patrzymy na świat oczami ówczesnych potęg europejskich nie dlatego, że popieramy ich działania, ale dlatego, że pomaga nam to zrozumieć niektóre z dokonanych przez nich wyborów. Być może dzięki temu będziemy mogli lepiej zrozumieć, jak i dlaczego pewne elementy historii potoczyły się w taki, a nie inny sposób, dając jednocześnie graczom swobodę w eksplorowaniu licznych scenariuszy „co by było, gdyby” tego okresu."/>
+                <ITEXT CH="W grze patrzymy na świat oczami ówczesnych potęg europejskich nie dlatego, że popieramy ich działania, ale dlatego, że pomaga nam to zrozumieć niektóre z dokonanych przez nie wyborów. Być może dzięki temu będziemy mogli lepiej zrozumieć, jak i dlaczego pewne elementy historii potoczyły się w taki, a nie inny sposób, dając jednocześnie graczom swobodę w eksplorowaniu licznych scenariuszy „co by było, gdyby” tego okresu."/>
                 <para/>
                 <ITEXT CH="Dużo tematów do ujęcia, jak na zwykłą grę planszową. Jednak nie mamy zamiaru dokonywać symulacji tego wszystkiego. Gra nadal pozwala zanurzyć się w tym niezwykle interesującym okresie i poprowadzić wybraną przez siebie nację przez kawałek jej historii. Stawiając czoła wyzwaniom opartym na prawdziwych wydarzeniach historycznych z tamtych czasów, często będziesz musiał dokonywać trudnych wyborów i negocjować z przeciwnikami, aby twoje królestwo mogło się rozwijać."/>
                 <para/>
@@ -785,7 +785,7 @@
                 <para/>
                 <ITEXT CH="2.1 Zwycięstwo w grze"/>
                 <para PARENT="podrozdział nagłówek 15 czerw"/>
-                <ITEXT CH="Zwycięzcą zostanie gracz, który zakończy grę z największą liczbą Prestiżu ("/>
+                <ITEXT CH="Zwycięzcą zostanie gracz, który zakończy grę z największą liczbą punktów Prestiżu ("/>
                 <ITEXT CPARENT="EU symbole" CH="0"/>
                 <ITEXT CH="). Istnieje wiele potencjalnych dróg prowadzących do zwycięstwa. Będziesz zdobywać Prestiż na różne sposoby (patrz str. "/>
                 <ITEXT CPARENT="EU cyfry kwadrat i litery" CH="42"/>
@@ -886,10 +886,10 @@
                 <ITEXT CH=" Siła Administracji (kostka)"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" CH="b"/>
-                <ITEXT CH=" Siła dyplomacji (kostka)"/>
+                <ITEXT CH=" Siła Dyplomacji (kostka)"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" CH="c"/>
-                <ITEXT CH=" Siła militarna (kostka)"/>
+                <ITEXT CH=" Siła Militarna (kostka)"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" CH="t"/>
                 <ITEXT CH=" Miasto"/>
@@ -1004,7 +1004,7 @@
                 <ITEXT CH=" Karta Eksponowana"/>
                 <para/>
                 <ITEXT CPARENT="EU symbole" CH="∞"/>
-                <ITEXT CH=" Tajne Akcja"/>
+                <ITEXT CH=" Tajna Akcja"/>
                 <para/>
                 <para/>
                 <ITEXT CH="CB"/>
