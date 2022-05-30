@@ -154,13 +154,10 @@
         <STYLE NAME="Punktowanie bez wcięcia czerwone" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•  " Numeration="0" NumerationFormat="8" NumerationPrefix="" NumerationSuffix=" " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Bold" FONTSIZE="11" FONTFEATURES="-clig" FCOLOR="English-red" SCALEH="90"/>
         <STYLE NAME="Punktowanie bez wcięcia czarne" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•  " Numeration="0" NumerationFormat="8" NumerationPrefix="" NumerationSuffix=" " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="None" ALIGN="1" LINESPMode="0" LINESP="10.5" KERN="0"/>
-        <STYLE NAME="ToC" ALIGN="0" LINESP="10" FIRST="0" FONTSIZE="10" LANGUAGE="pl">
+        <STYLE NAME="ToC" ALIGN="0" LINESP="8" FIRST="0" FONT="Arno Pro Bold" FONTSIZE="9" FONTFEATURES="-clig" LANGUAGE="pl">
             <Tabs Type="2" Pos="164.409448818898" Fill="."/>
         </STYLE>
         <STYLE NAME="podrozdział nagłówek 15 biały" ALIGN="1" FIRST="0" VOR="8" FONT="Trajan Pro Bold" FONTSIZE="15" FONTFEATURES="-clig,-liga" FCOLOR="White" LANGUAGE="pl"/>
-        <STYLE NAME="ToC2" ALIGN="0" FIRST="14.1732283464567" FONTSIZE="11" LANGUAGE="pl">
-            <Tabs Type="2" Pos="164.409448818898" Fill="."/>
-        </STYLE>
         <STYLE NAME="pogrubienie 11 czerwony" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="8" INDENT="0" RMARGIN="0" FIRST="0" VOR="3" NACH="1" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Bold" FONTSIZE="11" FONTFEATURES="-clig" FCOLOR="English-red"/>
         <STYLE NAME="Lista bez wcięcia punktowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•  " Numeration="0" NumerationFormat="8" NumerationPrefix="" NumerationSuffix=" " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista -1 z wcięciem punktowana -" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="19.8425196850394" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="–" Numeration="0" NumerationFormat="4" NumerationPrefix="" NumerationSuffix=". " NumerationStart="2" NumerationHigher="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
@@ -168,6 +165,7 @@
         <STYLE NAME="Lista bez wcięcia numerowana abc" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="11.3385826771654" RMARGIN="0" FIRST="-11.3385826771654" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="1" NumerationFormat="4" NumerationPrefix="" NumerationSuffix=") " HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista z wcięciem punktowana •" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="7.08661417322835" RMARGIN="0" FIRST="-7.08661417322835" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="• " Numeration="0" NumerationFormat="8" NumerationPrefix="" NumerationSuffix=" " HyphenConsecutiveLines="2" KeepLinesStart="1" KeepLinesEnd="1" BCOLOR="None" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista bez wcięcia numerowana 1,2,3 szara" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="8.50393700787402" RMARGIN="0" FIRST="-8.50393700787402" VOR="0" NACH="2" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="1" NumerationFormat="0" NumerationPrefix="" NumerationSuffix=". " NumerationOther="1" HyphenConsecutiveLines="2" BCOLOR="Grey 85" BSHADE="100" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig"/>
+        <STYLE NAME="ToC-lvl2" PARENT="ToC" FIRST="8.50393700787402" FONT="Arno Pro Regular 12pt" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arno Pro Regular 12pt" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="Domyślny pochyły" FONT="Arno Pro Italic" FONTSIZE="11" FONTFEATURES="-clig" LANGUAGE="pl"/>
         <CHARSTYLE CNAME="EU symbole" FONT="ZQTHMO+ThePriceOfPowerRegular Regular" FONTSIZE="14" FONTFEATURES="-clig,-liga" LANGUAGE="pl"/>
@@ -336,7 +334,7 @@
             <ItemAttribute Name="ToC" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
         </DocItemAttributes>
         <TablesOfContents>
-            <TableOfContents Name="Spis treści" ItemAttributeName="ToC" FrameName="ToC" ListNonPrinting="0" Style="None" NumberPlacement="End"/>
+            <TableOfContents Name="Spis treści" ItemAttributeName="ToC" FrameName="ToC" ListNonPrinting="0" Style="ToC" NumberPlacement="End"/>
         </TablesOfContents>
         <NotesStyles>
             <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
@@ -458,31 +456,31 @@
                 <ITEXT CH="2.1 Zwycięstwo w grze"/>
                 <tab/>
                 <ITEXT CH="2"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="2.2 Uwagi ogólne"/>
                 <tab/>
                 <ITEXT CH="2"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Ikonografia i skróty"/>
                 <tab/>
                 <ITEXT CH="2"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Pojęcia związane z grą"/>
                 <tab/>
                 <ITEXT CH="3"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Ważne terminy"/>
                 <tab/>
                 <ITEXT CH="4"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Plansza Gry"/>
                 <tab/>
                 <ITEXT CH="4"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Osobliwości mapy"/>
                 <tab/>
                 <ITEXT CH="5"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="3."/>
                 <nbspace/>
                 <ITEXT CH="Przygotowanie gry"/>
@@ -496,31 +494,31 @@
                 <ITEXT CH="4.1 Faza 1: Dobieranie Kart"/>
                 <tab/>
                 <ITEXT CH="8"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.2 Faza 2: Akcje"/>
                 <tab/>
                 <ITEXT CH="8"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.3 Faza 3: Pokój i Bunty"/>
                 <tab/>
                 <ITEXT CH="8"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.4 Faza 4: Dochód i Utrzymanie"/>
                 <tab/>
                 <ITEXT CH="10"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.5 Faza 5: Porządki"/>
                 <tab/>
                 <ITEXT CH="10"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.6 Procedura zakończenia Ery"/>
                 <tab/>
                 <ITEXT CH="11"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="4.7 Punktacja Końcowa"/>
                 <tab/>
                 <ITEXT CH="11"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="5. Akcje podstawowe"/>
                 <tab/>
                 <ITEXT CH="12"/>
@@ -528,23 +526,23 @@
                 <ITEXT CH="5.1 Akcje Ogólne"/>
                 <tab/>
                 <ITEXT CH="12"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="5.2 Pomniejsze Akcje"/>
                 <tab/>
                 <ITEXT CH="13"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="5.3 Akcje administracyjne"/>
                 <tab/>
                 <ITEXT CH="14"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="5.4 Akcje Dyplomatyczne"/>
                 <tab/>
                 <ITEXT CH="14"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="5.5 Akcje Militarne"/>
                 <tab/>
                 <ITEXT CH="16"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="6. Karty akcji"/>
                 <tab/>
                 <ITEXT CH="18"/>
@@ -552,11 +550,11 @@
                 <ITEXT CH="6.1 Trzy Talie"/>
                 <tab/>
                 <ITEXT CH="18"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="6.2 Karty Specjalne"/>
                 <tab/>
                 <ITEXT CH="18"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="7. Zarządzanie PR"/>
                 <tab/>
                 <ITEXT CH="19"/>
@@ -564,40 +562,71 @@
                 <ITEXT CH="7.1 Siła Monarchii"/>
                 <tab/>
                 <ITEXT CH="19"/>
-                <para PARENT="ToC"/>
-                <ITEXT CH="7.2 "/>
-                <ITEXT SCALEH="92" CH="Postacie (Przywódcy i Doradcy)"/>
-                <tab SCALEH="92"/>
-                <ITEXT SCALEH="92" CH="19"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="7.2 Postacie (Przywódcy i Doradcy)"/>
+                <tab/>
+                <ITEXT CH="19"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="7.3 Stabilność"/>
                 <tab/>
                 <ITEXT CH="20"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="7.4 Ekonomia"/>
                 <tab/>
                 <ITEXT CH="20"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="7.5 Miasta"/>
                 <tab/>
                 <ITEXT CH="21"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="7.6 Kluczowe Prowincje"/>
                 <tab/>
                 <ITEXT CH="21"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="8. Idee"/>
                 <tab/>
                 <ITEXT CH="21"/>
                 <para PARENT="ToC"/>
-                <ITEXT CH="9. Wojna"/>
+                <ITEXT CH="9. Działania Wojenne"/>
                 <tab/>
                 <ITEXT CH="22"/>
                 <para PARENT="ToC"/>
-                <ITEXT CH="9. Wojna"/>
+                <ITEXT CH="9.1 Deklaracja Wojny (DoW)"/>
                 <tab/>
                 <ITEXT CH="22"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.2 Limity Wojenne"/>
+                <tab/>
+                <ITEXT CH="22"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.3 Siła Robocza"/>
+                <tab/>
+                <ITEXT CH="23"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.4 Przywódcy Militarni"/>
+                <tab/>
+                <ITEXT CH="23"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.5 Ruch"/>
+                <tab/>
+                <ITEXT CH="25"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.6 Sekwencja Bitwy"/>
+                <tab/>
+                <ITEXT CH="26"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.7 Bitwy Lądowe"/>
+                <tab/>
+                <ITEXT CH="26"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.8 Oblężenia i Okupacja"/>
+                <tab/>
+                <ITEXT CH="28"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="9.9 Bitwy Morskie"/>
+                <tab/>
+                <ITEXT CH="28"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="10. Rozmowy pokojowe"/>
                 <tab/>
                 <ITEXT CH="29"/>
@@ -605,23 +634,23 @@
                 <ITEXT CH="10.1 Kolejność Rozmów Pokojowych"/>
                 <tab/>
                 <ITEXT CH="29"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="10.2 Zwycięstwo lub Przegrana"/>
                 <tab/>
                 <ITEXT CH="29"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="10.3 Pokój i Sojusznicy"/>
                 <tab/>
                 <ITEXT CH="30"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="10.4 Rozejmy"/>
                 <tab/>
                 <ITEXT CH="30"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Warunki Pokoju"/>
                 <tab/>
                 <ITEXT CH="31"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="11. Stosunki Dyplomatyczne"/>
                 <tab/>
                 <ITEXT CH="32"/>
@@ -629,19 +658,19 @@
                 <ITEXT CH="11.1 Wpływ"/>
                 <tab/>
                 <ITEXT CH="32"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="11.2 Małżeństwa"/>
                 <tab/>
                 <ITEXT CH="32"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="11.3 Sojusze"/>
                 <tab/>
                 <ITEXT CH="32"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="11.4 Wasale"/>
                 <tab/>
                 <ITEXT CH="33"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12. Handel"/>
                 <tab/>
                 <ITEXT CH="34"/>
@@ -649,27 +678,27 @@
                 <ITEXT CH="12.1 Karty Handlu"/>
                 <tab/>
                 <ITEXT CH="34"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12.2 Węzły Handlowe"/>
                 <tab/>
                 <ITEXT CH="34"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12.3 Ochrona Handlu"/>
                 <tab/>
                 <ITEXT CH="34"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12.4 Kupcy"/>
                 <tab/>
                 <ITEXT CH="34"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12.5 Siła Handlowa i Dochód z Handlu"/>
                 <tab/>
                 <ITEXT CH="35"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="12.6 Handel Odległy"/>
                 <tab/>
                 <ITEXT CH="35"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="13. Niezależne Królestwa (NPR)"/>
                 <tab/>
                 <ITEXT CH="35"/>
@@ -677,23 +706,23 @@
                 <ITEXT CH="13.1 Relacje z NPR"/>
                 <tab/>
                 <ITEXT CH="35"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="13.2 NPR z Wasalami"/>
                 <tab/>
                 <ITEXT CH="35"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="13.3 DNPRy"/>
                 <tab/>
                 <ITEXT CH="35"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="13.4 Działania Wojenne a NPR"/>
                 <tab/>
                 <ITEXT CH="36"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="13.5 Inwazje NPR"/>
                 <tab/>
                 <ITEXT CH="36"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="14. Buntownicy"/>
                 <tab/>
                 <ITEXT CH="37"/>
@@ -701,19 +730,19 @@
                 <ITEXT CH="14.1 Niepokoje"/>
                 <tab/>
                 <ITEXT CH="37"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="14.2 Kości Buntowników"/>
                 <tab/>
                 <ITEXT CH="37"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="14.3 Jednostki Buntowników"/>
                 <tab/>
                 <ITEXT CH="37"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="14.4 Oblężenie Miast Buntowników"/>
                 <tab/>
                 <ITEXT CH="37"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="15. Religia i Wiara"/>
                 <tab/>
                 <ITEXT CH="38"/>
@@ -721,19 +750,39 @@
                 <ITEXT CH="15.1 Wiary Zakaźne"/>
                 <tab/>
                 <ITEXT CH="38"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="15.2 Religia Państwowa"/>
                 <tab/>
                 <ITEXT CH="38"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="15.3 Religia Obszarów"/>
                 <tab/>
                 <ITEXT CH="38"/>
-                <para PARENT="ToC"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="16. Wydarzenia"/>
                 <tab/>
                 <ITEXT CH="39"/>
                 <para PARENT="ToC"/>
+                <ITEXT CH="16.1 Typy Wydarzeń i Numery Kart"/>
+                <tab/>
+                <ITEXT CH="39"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="16.2 Obszar Wydarzeń"/>
+                <tab/>
+                <ITEXT CH="39"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="16.3 Rozgrywanie Wydarzenia"/>
+                <tab/>
+                <ITEXT CH="39"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="16.4 Niewybrane Wydarzenia"/>
+                <tab/>
+                <ITEXT CH="40"/>
+                <para PARENT="ToC-lvl2"/>
+                <ITEXT CH="16.5 Efekty drugorzędne"/>
+                <tab/>
+                <ITEXT CH="40"/>
+                <para PARENT="ToC-lvl2"/>
                 <ITEXT CH="Komponenty gry"/>
                 <tab/>
                 <ITEXT CH="48"/>
@@ -791,11 +840,7 @@
         <PAGEOBJECT XPOS="100.00062992126" YPOS="13248.342992126" OwnPage="15" ItemID="1741675757" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="15012.1218897638" OwnPage="17" ItemID="1741659341" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="16775.9007874016" OwnPage="19" ItemID="1741684669" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="100.00062992126" YPOS="18539.6796850394" OwnPage="21" ItemID="1741645581" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
-            </PageItemAttributes>
-        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="18539.6796850394" OwnPage="21" ItemID="1741645581" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="20303.4585826772" OwnPage="23" ItemID="1741668925" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="22067.237480315" OwnPage="25" ItemID="1741619821" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="23831.0163779528" OwnPage="27" ItemID="1741638541" PTYPE="2" WIDTH="595.275590551181" HEIGHT="841.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.354119922992969" LOCALSCY="0.373343575955445" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p2-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" copath="M0 0 L595.276 0 L595.276 841.89 L0 841.89 L0 0 Z" gXpos="100.00062992126" gYpos="901.890708661418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -6459,7 +6504,7 @@
                 <ItemAttribute Name="ToC" Type="none" Value="5.4 Akcje Dyplomatyczne" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="11513.0896062992" OwnPage="13" ItemID="61221454" PTYPE="4" WIDTH="355.053" HEIGHT="516.410393700804" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 516.41 L0 516.41 L0 0 Z" copath="M0 -7.41842 L355 -6.08923 L354.022 524.899 L0 524.379 L0 -7.41842 Z" gXpos="-4.68958205601666e-13" gYpos="0" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="11513.0896062992" OwnPage="13" ItemID="61221454" PTYPE="4" WIDTH="355.053" HEIGHT="516.410393700804" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 516.41 L0 516.41 L0 0 Z" copath="M0 -7.41842 L355 -6.08923 L354.022 524.899 L0 524.379 L0 -7.41842 Z" gXpos="-6.25277607468888e-13" gYpos="0" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
@@ -6512,8 +6557,8 @@
                 <para PARENT="Domyślny kursywa 11"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="325.602569415665" YPOS="11516.6320253418" OwnPage="13" ItemID="60868654" PTYPE="2" WIDTH="332.823257355989" HEIGHT="296.75096678421" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.344658498007213" LOCALSCY="0.344658498007213" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L332.823 0 L332.823 296.751 L0 296.751 L0 0 Z" copath="M0 0 L332.823 0 L332.823 296.751 L0 296.751 L0 0 Z" gXpos="13.5709001243258" gYpos="3.54241904258197" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="12033.5" OwnPage="13" ItemID="60871838" PTYPE="4" WIDTH="355.053" HEIGHT="258.714285714286" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 258.714 L0 258.714 L0 0 Z" copath="M0 -3.71653 L355 -3.05062 L354.022 262.967 L0 262.707 L0 -3.71653 Z" gXpos="-4.68958205601666e-13" gYpos="77.0000000000018" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="325.602569415665" YPOS="11516.6320253418" OwnPage="13" ItemID="60868654" PTYPE="2" WIDTH="332.823257355989" HEIGHT="296.75096678421" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.344658498007213" LOCALSCY="0.344658498007213" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L332.823 0 L332.823 296.751 L0 296.751 L0 0 Z" copath="M0 0 L332.823 0 L332.823 296.751 L0 296.751 L0 0 Z" gXpos="13.5709001243256" gYpos="3.54241904258197" gWidth="355.053" gHeight="430.410393700802" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="12033.5" OwnPage="13" ItemID="60871838" PTYPE="4" WIDTH="355.053" HEIGHT="258.714285714286" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 258.714 L0 258.714 L0 0 Z" copath="M0 -3.71653 L355 -3.05062 L354.022 262.967 L0 262.707 L0 -3.71653 Z" gXpos="-6.25277607468888e-13" gYpos="77.0000000000018" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" CH="Przykład"/>
@@ -6563,7 +6608,7 @@
                 <para PARENT="Domyślny kursywa 11"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="318.515955242437" YPOS="12036.344486144" OwnPage="13" ItemID="62999102" PTYPE="2" WIDTH="350.575" HEIGHT="146.655513855998" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.366638784639995" LOCALSCY="0.366638784639995" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L350.575 0 L350.575 146.656 L0 146.656 L0 0 Z" copath="M0 0 L350.575 0 L352.666 151.987 L0.736013 151.569 L0 0 Z" gXpos="6.48428595109758" gYpos="79.8444861440232" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="318.515955242437" YPOS="12036.344486144" OwnPage="13" ItemID="62999102" PTYPE="2" WIDTH="350.575" HEIGHT="146.655513855998" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.366638784639995" LOCALSCY="0.366638784639995" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p14-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L350.575 0 L350.575 146.656 L0 146.656 L0 0 Z" copath="M0 0 L350.575 0 L352.666 151.987 L0.736013 151.569 L0 0 Z" gXpos="6.48428595109742" gYpos="79.8444861440232" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="12394.7995433071" OwnPage="14" ItemID="63002286" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000007" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 7.27596e-12 L181.791 7.27596e-12 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 7.27596e-12 Z" copath="M0 7.27596e-12 L538.584 7.27596e-12 L538.584 785.197 L0 785.197 L0 7.27596e-12 Z" gXpos="128.34662992126" gYpos="48.3472598425136" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="67913758" BACKITEM="61263694"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="12727.4153543307" OwnPage="14" ItemID="61719854" PTYPE="4" WIDTH="355.053" HEIGHT="447.027139797742" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 447.027 L0 447.027 L0 0 Z" copath="M0 -6.42171 L355 -5.27111 L354.953 445.75 L-1.98952e-13 446.35 L0 -6.42171 Z" gXpos="-183.685039370079" gYpos="-110.974094488189" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -6642,7 +6687,7 @@
                 <trail PARENT="Domyślny bez wcięcia 9pt"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="13274.8537007874" OwnPage="15" ItemID="67641518" PTYPE="4" WIDTH="355.053" HEIGHT="272.645998112339" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 272.646 L0 272.646 L0 0 Z" copath="M0 -3.91667 L355 -3.2149 L354.022 277.128 L-1.3031 276.796 L0 -3.91667 Z" gXpos="-4.68958205601666e-13" gYpos="-445.425196850392" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="13274.8537007874" OwnPage="15" ItemID="67641518" PTYPE="4" WIDTH="355.053" HEIGHT="272.645998112339" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 272.646 L0 272.646 L0 0 Z" copath="M0 -3.91667 L355 -3.2149 L354.022 277.128 L-1.3031 276.796 L0 -3.91667 Z" gXpos="-6.25277607468888e-13" gYpos="-445.425196850392" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="Przykład"/>
@@ -6683,7 +6728,7 @@
                 <trail PARENT="Domyślny kursywa 11"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="358.200994612515" YPOS="13279.115509766" OwnPage="15" ItemID="64989278" PTYPE="2" WIDTH="269.044186489847" HEIGHT="146.656" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.285322957198444" LOCALSCY="0.285322957198444" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p16-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L269.044 0 L269.044 146.656 L0 146.656 L0 0 Z" copath="M-43.201 -2.42652 L308.729 -2.42652 L308.729 149.884 L-43.8677 149.884 L-43.201 -2.42652 Z" gXpos="46.1693253211762" gYpos="-441.163387871725" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="358.200994612515" YPOS="13279.115509766" OwnPage="15" ItemID="64989278" PTYPE="2" WIDTH="269.044186489847" HEIGHT="146.656" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.285322957198444" LOCALSCY="0.285322957198444" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p16-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L269.044 0 L269.044 146.656 L0 146.656 L0 0 Z" copath="M-43.201 -2.42652 L308.729 -2.42652 L308.729 149.884 L-43.8677 149.884 L-43.201 -2.42652 Z" gXpos="46.169325321176" gYpos="-441.163387871725" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="14159.5407086614" OwnPage="16" ItemID="64992462" PTYPE="4" WIDTH="355.053" HEIGHT="332.209291338586" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 332.209 L0 332.209 L0 0 Z" copath="M0 -4.77231 L355 -3.91724 L354.953 331.26 L-1.98952e-13 331.706 L0 -4.77231 Z" gXpos="-183.685039370079" gYpos="-442.627637795276" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -8815,7 +8860,9 @@
                 <trail/>
             </StoryText>
             <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9. Działania Wojenne" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.1 Deklaracja Wojny (DoW)" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.2 Limity Wojenne" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="24741.2518267717" OwnPage="28" ItemID="71958574" PTYPE="4" WIDTH="538.584" HEIGHT="528.348231509726" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 357.089 L538.584 528.348 L0 528.348 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 528.348 L0 528.348 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="89482686" BACKITEM="-1">
@@ -9788,7 +9835,7 @@
         <PAGEOBJECT XPOS="445.68053993251" YPOS="17465.0031496063" OwnPage="19" ItemID="110242702" PTYPE="2" WIDTH="36.9977120359956" HEIGHT="35.4335433070592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.221543185844285" LOCALSCY="0.221543185844285" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p20-img6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L36.9977 0 L36.9977 35.4335 L0 35.4335 L0 0 Z" copath="M0 0 L36.9977 0 L36.9977 35.4335 L0 35.4335 L0 0 Z" gXpos="445.68053993251" gYpos="15701.2242519685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="622.5" YPOS="17377.1291338583" OwnPage="19" ItemID="110249134" PTYPE="2" WIDTH="44.430220472441" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.260266978346476" LOCALSCY="0.260266978346476" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p21-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" gXpos="622.5" gYpos="15613.3502362205" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="163.346456692914" YPOS="15554.5" OwnPage="17" ItemID="110684302" PTYPE="2" WIDTH="524.5" HEIGHT="264.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.311542991755006" LOCALSCY="0.311542991755006" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p18-img4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L524.5 0 L524.5 264.5 L0 264.5 L0 0 Z" copath="M0 0 L524.5 0 L524.5 264.5 L0 264.5 L0 0 Z" gXpos="163.346456692914" gYpos="15554.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="16802.411496063" OwnPage="19" ItemID="110175790" PTYPE="4" WIDTH="355.053" HEIGHT="272.645998112339" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 272.646 L0 272.646 L0 0 Z" copath="M0 -3.91667 L355 -3.2149 L354.022 277.128 L-1.3031 276.796 L0 -3.91667 Z" gXpos="-4.77395900588817e-13" gYpos="-445.425196850392" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="16802.411496063" OwnPage="19" ItemID="110175790" PTYPE="4" WIDTH="355.053" HEIGHT="272.645998112339" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 272.646 L0 272.646 L0 0 Z" copath="M0 -3.91667 L355 -3.2149 L354.022 277.128 L-1.3031 276.796 L0 -3.91667 Z" gXpos="-6.33715302456039e-13" gYpos="-445.425196850392" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT SCALEH="100" CH="Na torze Stabilności "/>
@@ -9839,7 +9886,7 @@
                 <trail PARENT="Domyślny kursywa 11"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="358.200994612515" YPOS="16806.6733050416" OwnPage="19" ItemID="110247438" PTYPE="2" WIDTH="269.044186489847" HEIGHT="138.716143777308" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.168140780336131" LOCALSCY="0.168140780336131" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p20-img8.png" IRENDER="0" EMBEDDED="0" path="M0 0 L269.044 0 L269.044 138.716 L0 138.716 L0 0 Z" copath="M-43.201 -2.29515 L308.729 -2.29515 L308.729 141.769 L-43.8677 141.769 L-43.201 -2.29515 Z" gXpos="46.1693253211762" gYpos="-441.163387871725" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="358.200994612515" YPOS="16806.6733050416" OwnPage="19" ItemID="110247438" PTYPE="2" WIDTH="269.044186489847" HEIGHT="138.716143777308" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.168140780336131" LOCALSCY="0.168140780336131" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p20-img8.png" IRENDER="0" EMBEDDED="0" path="M0 0 L269.044 0 L269.044 138.716 L0 138.716 L0 0 Z" copath="M-43.201 -2.29515 L308.729 -2.29515 L308.729 141.769 L-43.8677 141.769 L-43.201 -2.29515 Z" gXpos="46.169325321176" gYpos="-441.163387871725" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="645.310039370079" YPOS="16521.9216295788" OwnPage="18" ItemID="110237934" PTYPE="2" WIDTH="18.6358695652177" HEIGHT="12.2557343375593" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.221855590062115" LOCALSCY="0.221855590062115" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p20-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L18.6359 0 L18.6359 12.2557 L0 12.2557 L0 0 Z" copath="M0 0 L18.6359 0 L18.6359 12.2557 L0 12.2557 L0 0 Z" gXpos="645.310039370079" gYpos="15640.03218076" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="622.5" YPOS="16579.9955905512" OwnPage="18" ItemID="111164110" PTYPE="2" WIDTH="44.430220472441" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.260266978346476" LOCALSCY="0.260266978346476" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p20-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" gXpos="622.5" gYpos="15698.1061417323" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="439.082677165354" YPOS="17686.1362362205" OwnPage="20" ItemID="111150014" PTYPE="2" WIDTH="44.430220472441" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.270407250230105" LOCALSCY="0.270407250230105" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p21-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" gXpos="439.082677165354" gYpos="15040.4678897638" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -13763,14 +13810,14 @@
         <PAGEOBJECT XPOS="445.644457904302" YPOS="32718.6266929135" OwnPage="37" ItemID="161867054" PTYPE="2" WIDTH="46.651095159287" HEIGHT="43.8649273603041" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.274155796001901" LOCALSCY="0.274155796001901" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/38-5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" copath="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" gXpos="446.368320404302" gYpos="29191.6957476377" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="445.644457904302" YPOS="32871.6975590552" OwnPage="37" ItemID="161858158" PTYPE="2" WIDTH="46.651095159287" HEIGHT="43.8649273603041" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.274155796001901" LOCALSCY="0.274155796001901" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/38-6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" copath="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" gXpos="446.368320404302" gYpos="29344.7666137794" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="445.644457904302" YPOS="33067.2881102362" OwnPage="37" ItemID="161847662" PTYPE="2" WIDTH="46.651095159287" HEIGHT="43.8649273603041" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.274155796001901" LOCALSCY="0.274155796001901" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/38-7.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" copath="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" gXpos="446.368320404302" gYpos="29540.3571649605" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="128.248031496063" YPOS="34140.3758155231" OwnPage="38" ItemID="161951438" PTYPE="4" WIDTH="538.181853728541" HEIGHT="200.817" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L538.182 0 L538.182 200.817 L0 200.817 L0 0 Z" copath="M0 -2.88482 L538.101 -2.36793 L536.619 204.118 L-1.97521 203.874 L0 -2.88482 Z" gXpos="0" gYpos="0" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.248031496063" YPOS="34140.3758155231" OwnPage="38" ItemID="161951438" PTYPE="4" WIDTH="538.181853728541" HEIGHT="200.817" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L538.182 0 L538.182 200.817 L0 200.817 L0 0 Z" copath="M0 -2.88482 L538.101 -2.36793 L536.619 204.118 L-1.97521 203.874 L0 -2.88482 Z" gXpos="-1.56319401867222e-13" gYpos="0" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH=" Oznaczenia na Karcie Wydarzeń"/>
                 <trail PARENT="podrozdział nagłówek 15 braz" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="216.221102362205" YPOS="34162.1615298088" OwnPage="38" ItemID="162000174" PTYPE="2" WIDTH="132.636040494938" HEIGHT="164.267041619772" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.232694807885856" LOCALSCY="0.232694807885856" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/39-2-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L132.636 0 L132.636 164.267 L0 164.267 L0 0 Z" copath="M0 0 L132.636 0 L132.636 164.267 L0 164.267 L0 0 Z" gXpos="87.9730708661419" gYpos="21.7857142856956" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="216.221102362205" YPOS="34162.1615298088" OwnPage="38" ItemID="162000174" PTYPE="2" WIDTH="132.636040494938" HEIGHT="164.267041619772" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.232694807885856" LOCALSCY="0.232694807885856" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/39-2-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L132.636 0 L132.636 164.267 L0 164.267 L0 0 Z" copath="M0 0 L132.636 0 L132.636 164.267 L0 164.267 L0 0 Z" gXpos="87.9730708661417" gYpos="21.7857142856956" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="564.0303712036" YPOS="34158.2570078741" OwnPage="38" ItemID="162152926" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="435.782339707536" gYpos="17.881192351005" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
@@ -13813,35 +13860,35 @@
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="155.162729658793" YPOS="34325.5011023622" OwnPage="38" ItemID="162690702" PTYPE="4" WIDTH="155.333333333333" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L155.333 0 L155.333 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L155.334 0 L155.334 20.9816 L0 20.9816 L0 0 Z" gXpos="26.9146981627286" gYpos="185.125286839194" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="155.162729658793" YPOS="34325.5011023622" OwnPage="38" ItemID="162690702" PTYPE="4" WIDTH="155.333333333333" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L155.333 0 L155.333 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L155.334 0 L155.334 20.9816 L0 20.9816 L0 0 Z" gXpos="26.9146981627284" gYpos="185.125286839194" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Symbole opisujący efekty drugorzędne"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="116.156355455569" YPOS="34285.8160629922" OwnPage="38" ItemID="162828542" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="-12.0916760404948" gYpos="145.440247469115" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="116.156355455569" YPOS="34285.8160629922" OwnPage="38" ItemID="162828542" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="-12.091676040495" gYpos="145.440247469115" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Sekcja efektów drugorzędnych na karcie"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="133.164229471317" YPOS="34246.1310236221" OwnPage="38" ItemID="162821262" PTYPE="4" WIDTH="99.0063742032237" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L99.0064 0 L99.0064 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L99.0067 0 L99.0067 20.9816 L0 20.9816 L0 0 Z" gXpos="4.91619797525322" gYpos="105.755208099037" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="133.164229471317" YPOS="34246.1310236221" OwnPage="38" ItemID="162821262" PTYPE="4" WIDTH="99.0063742032237" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L99.0064 0 L99.0064 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L99.0067 0 L99.0067 20.9816 L0 20.9816 L0 0 Z" gXpos="4.91619797525306" gYpos="105.755208099037" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Wariant A) i B) Wydarzenia"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="130.329583802026" YPOS="34217.7845669292" OwnPage="38" ItemID="162867358" PTYPE="4" WIDTH="89.8383952006003" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.8384 0 L89.8384 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L89.8387 0 L89.8387 20.9816 L0 20.9816 L0 0 Z" gXpos="2.0815523059619" gYpos="77.4087514061233" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="130.329583802026" YPOS="34217.7845669292" OwnPage="38" ItemID="162867358" PTYPE="4" WIDTH="89.8383952006003" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.8384 0 L89.8384 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L89.8387 0 L89.8387 20.9816 L0 20.9816 L0 0 Z" gXpos="2.08155230596174" gYpos="77.4087514061233" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Sekcja Wydarzenie na karcie"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="131.181732283465" YPOS="34151.5714285714" OwnPage="38" ItemID="162956334" PTYPE="4" WIDTH="105.151601049869" HEIGHT="72.9325084364391" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.152 0 L105.152 72.9325 L0 72.9325 L0 0 Z" copath="M0 0 L105.152 0 L105.152 72.9325 L0 72.9325 L0 0 Z" gXpos="2.9337007874008" gYpos="11.1956130483256" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="131.181732283465" YPOS="34151.5714285714" OwnPage="38" ItemID="162956334" PTYPE="4" WIDTH="105.151601049869" HEIGHT="72.9325084364391" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.152 0 L105.152 72.9325 L0 72.9325 L0 0 Z" copath="M0 0 L105.152 0 L105.152 72.9325 L0 72.9325 L0 0 Z" gXpos="2.93370078740064" gYpos="11.1956130483256" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
                 <ITEXT CH="Znacznik kolejności sortowania. (1) trafia do pierwszej połowy talii Ery, (2) do drugiej połowy. (X) może znaleźć się w obu połowach Ery."/>
@@ -13912,7 +13959,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="128.248031496063" YPOS="36817.3571428571" OwnPage="41" ItemID="296188974" PTYPE="4" WIDTH="538.181853728541" HEIGHT="169.504019122641" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L538.182 0 L538.182 169.504 L0 169.504 L0 0 Z" copath="M0 -2.435 L538.101 -1.9987 L536.619 172.29 L-1.97521 172.084 L0 -2.435 Z" gXpos="0" gYpos="31.3129808773592" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.248031496063" YPOS="36817.3571428571" OwnPage="41" ItemID="296188974" PTYPE="4" WIDTH="538.181853728541" HEIGHT="169.504019122641" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Grey 85" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="5.66929133858268" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L538.182 0 L538.182 169.504 L0 169.504 L0 0 Z" copath="M0 -2.435 L538.101 -1.9987 L536.619 172.29 L-1.97521 172.084 L0 -2.435 Z" gXpos="-1.56319401867222e-13" gYpos="31.3129808773592" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Oznaczenia na Misjach i Kamieniach Milowych"/>
@@ -13927,7 +13974,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="442.992755905512" YPOS="36847.5149156355" OwnPage="41" ItemID="276823678" PTYPE="2" WIDTH="132.636040494938" HEIGHT="109.481304836918" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.15827689796532" LOCALSCY="0.15827689796532" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-3-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L132.636 0 L132.636 109.481 L0 109.481 L0 0 Z" copath="M0 0 L132.636 0 L132.636 109.481 L0 109.481 L0 0 Z" gXpos="314.744724409449" gYpos="61.4707536557744" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="216.221102362205" YPOS="36853.1842069741" OwnPage="41" ItemID="277441054" PTYPE="2" WIDTH="132.636040494938" HEIGHT="103.000832395941" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.143701018954429" LOCALSCY="0.143701018954429" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-3-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L132.636 0 L132.636 103.001 L0 103.001 L0 0 Z" copath="M0 0 L132.636 0 L132.636 103.001 L0 103.001 L0 0 Z" gXpos="87.9730708661419" gYpos="67.140044994357" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="216.221102362205" YPOS="36853.1842069741" OwnPage="41" ItemID="277441054" PTYPE="2" WIDTH="132.636040494938" HEIGHT="103.000832395941" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.143701018954429" LOCALSCY="0.143701018954429" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-3-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L132.636 0 L132.636 103.001 L0 103.001 L0 0 Z" copath="M0 0 L132.636 0 L132.636 103.001 L0 103.001 L0 0 Z" gXpos="87.9730708661418" gYpos="67.140044994357" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="564.030371203599" YPOS="36840.7757480315" OwnPage="41" ItemID="277280494" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="435.782339707536" gYpos="54.7315860517924" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
@@ -13964,14 +14011,14 @@
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="274.896512935883" YPOS="36953.3111811024" OwnPage="41" ItemID="287866782" PTYPE="4" WIDTH="38.9156355455573" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L38.9156 0 L38.9156 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L38.9158 0 L38.9158 20.9816 L0 20.9816 L0 0 Z" gXpos="146.64848143982" gYpos="167.267019122659" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="274.896512935882" YPOS="36953.3111811024" OwnPage="41" ItemID="287866782" PTYPE="4" WIDTH="38.9156355455573" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L38.9156 0 L38.9156 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L38.9158 0 L38.9158 20.9816 L0 20.9816 L0 0 Z" gXpos="146.648481439819" gYpos="167.267019122659" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Nr Misji"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="130.329583802024" YPOS="36951.3269291339" OwnPage="41" ItemID="300750078" PTYPE="4" WIDTH="136.915140607425" HEIGHT="34.0157480315102" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.915 0 L136.915 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L136.916 0 L136.916 34.0157 L0 34.0157 L0 0 Z" gXpos="2.08155230596137" gYpos="165.282767154155" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="130.329583802024" YPOS="36951.3269291339" OwnPage="41" ItemID="300750078" PTYPE="4" WIDTH="136.915140607425" HEIGHT="34.0157480315102" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.915 0 L136.915 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L136.916 0 L136.916 34.0157 L0 34.0157 L0 0 Z" gXpos="2.08155230596121" gYpos="165.282767154155" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="2" LINESP="10" FONTSIZE="9"/>
                 <ITEXT FONTSIZE="9" CH="Wymagana Misja. "/>
@@ -13980,21 +14027,21 @@
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="2" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="132.992125984252" YPOS="36922.980472441" OwnPage="41" ItemID="275799550" PTYPE="4" WIDTH="89.235597774147" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.2356 0 L89.2356 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L89.2359 0 L89.2359 20.9816 L0 20.9816 L0 0 Z" gXpos="4.744094488189" gYpos="136.936310461242" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="132.992125984252" YPOS="36922.980472441" OwnPage="41" ItemID="275799550" PTYPE="4" WIDTH="89.235597774147" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.2356 0 L89.2356 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L89.2359 0 L89.2359 20.9816 L0 20.9816 L0 0 Z" gXpos="4.74409448818884" gYpos="136.936310461242" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Misje Początkowe mają zielone tło"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="127.494938132733" YPOS="36903.1379527559" OwnPage="41" ItemID="1721806045" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="-0.753093363329981" gYpos="117.093790776203" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="127.494938132733" YPOS="36903.1379527559" OwnPage="41" ItemID="1721806045" PTYPE="4" WIDTH="111.740659641414" HEIGHT="20.9816" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" copath="M0 0 L111.741 0 L111.741 20.9816 L0 20.9816 L0 0 Z" gXpos="-0.753093363330137" gYpos="117.093790776203" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CH="Efekt ukończenia Misji"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="135.415354330709" YPOS="36855.5159055118" OwnPage="41" ItemID="278091038" PTYPE="4" WIDTH="89.6470150969816" HEIGHT="34.0157480314956" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.647 0 L89.647 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L89.6473 0 L89.6473 34.0157 L0 34.0157 L0 0 Z" gXpos="7.16732283464572" gYpos="69.4717435321135" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="135.415354330709" YPOS="36855.5159055118" OwnPage="41" ItemID="278091038" PTYPE="4" WIDTH="89.6470150969816" HEIGHT="34.0157480314956" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L89.647 0 L89.647 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L89.6473 0 L89.6473 34.0157 L0 34.0157 L0 0 Z" gXpos="7.16732283464556" gYpos="69.4717435321135" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="2"/>
                 <ITEXT CH="Powiązanie misji z Królestwem (tutaj: Anglia)"/>
@@ -14016,22 +14063,22 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="209.699662542182" YPOS="36843.6103937008" OwnPage="41" ItemID="294364014" PTYPE="4" WIDTH="49.3228346456697" HEIGHT="10.5628346456433" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L49.3228 0 L49.3228 10.5628 L0 10.5628 L0 0 Z" copath="M0 0 L49.323 0 L49.323 10.5628 L0 10.5628 L0 0 Z" gXpos="81.4516310461186" gYpos="57.5662317210849" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="209.699662542181" YPOS="36843.6103937008" OwnPage="41" ItemID="294364014" PTYPE="4" WIDTH="49.3228346456697" HEIGHT="10.5628346456433" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L49.3228 0 L49.3228 10.5628 L0 10.5628 L0 0 Z" copath="M0 0 L49.323 0 L49.323 10.5628 L0 10.5628 L0 0 Z" gXpos="81.4516310461185" gYpos="57.5662317210849" gWidth="538.181853728541" gHeight="200.817000000003" PSTYLE="Domyślny bez wcięcia 10pt" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
                 <ITEXT CPARENT="Domyślny pogrubiona 10" CH="Misja"/>
                 <trail PARENT="Domyślny bez wcięcia 10pt" ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="145.354960629921" YPOS="37111.451608549" OwnPage="42" ItemID="303369806" PTYPE="2" WIDTH="141.732283464567" HEIGHT="103.000832395941" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.302846759539673" LOCALSCY="0.302846759539673" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/43-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L141.732 0 L141.732 103.001 L0 103.001 L0 0 Z" copath="M-17.0083 -2.42655 L155.19 -2.42655 L154.918 101.483 L-17.0083 101.755 L-17.0083 -2.42655 Z" gXpos="17.1069291338584" gYpos="-556.482002249738" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="37111.451608549" OwnPage="42" ItemID="303369806" PTYPE="2" WIDTH="141.732283464567" HEIGHT="103.000832395941" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.302846759539673" LOCALSCY="0.302846759539673" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/43-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L141.732 0 L141.732 103.001 L0 103.001 L0 0 Z" copath="M-17.0083 -2.42655 L155.19 -2.42655 L154.918 101.483 L-17.0083 101.755 L-17.0083 -2.42655 Z" gXpos="17.1069291338583" gYpos="-556.482002249738" gWidth="538.181853728541" gHeight="200.817000000003" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="440.392489400365" YPOS="33884.5870078742" OwnPage="38" ItemID="1721280493" PTYPE="2" WIDTH="46.651095159287" HEIGHT="43.8649273603041" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.356625425693529" LOCALSCY="0.356625425693529" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/39-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" copath="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" gXpos="441.116351900365" gYpos="29475.7666137794" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="261.809812235011" YPOS="36418.5703149608" OwnPage="41" ItemID="302761102" PTYPE="2" WIDTH="46.651095159287" HEIGHT="43.8649273603041" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.27762612253357" LOCALSCY="0.27762612253357" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" copath="M0 0 L46.6511 0 L46.6511 43.8649 L0 43.8649 L0 0 Z" gXpos="262.533674735011" gYpos="29364.0815744093" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="272.914015748032" YPOS="36582.9797637797" OwnPage="41" ItemID="308716094" PTYPE="2" WIDTH="35.5468916462664" HEIGHT="37.5916647917766" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.27555729958346" LOCALSCY="0.27555729958346" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L35.5469 0 L35.5469 37.5917 L0 37.5917 L0 0 Z" copath="M0 0 L35.5469 0 L35.5469 37.5917 L0 37.5917 L0 0 Z" gXpos="273.637878248032" gYpos="29528.4910232282" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.914015748031" YPOS="36582.9797637797" OwnPage="41" ItemID="308716094" PTYPE="2" WIDTH="35.5468916462664" HEIGHT="37.5916647917766" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.27555729958346" LOCALSCY="0.27555729958346" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/42-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L35.5469 0 L35.5469 37.5917 L0 37.5917 L0 0 Z" copath="M0 0 L35.5469 0 L35.5469 37.5917 L0 37.5917 L0 0 Z" gXpos="273.637878248031" gYpos="29528.4910232282" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="606.734881889764" YPOS="35121.6" OwnPage="39" ItemID="280032942" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="606.734881889764" gYpos="35121.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="218.388425196851" YPOS="35320.3398425198" OwnPage="40" ItemID="281304414" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="218.388425196851" gYpos="34438.4503937009" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="232.561653543308" YPOS="35394.0406299213" OwnPage="40" ItemID="282076158" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="232.561653543308" gYpos="34512.1511811025" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="235.396299212599" YPOS="35481.9146456694" OwnPage="40" ItemID="281754398" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="235.396299212599" gYpos="34600.0251968505" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="164.530157480316" YPOS="35569.7886614174" OwnPage="40" ItemID="308766990" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="164.530157480316" gYpos="34687.8992125985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="164.530157480315" YPOS="35569.7886614174" OwnPage="40" ItemID="308766990" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="164.530157480315" gYpos="34687.8992125985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="218.388425196851" YPOS="35720.5918110237" OwnPage="40" ItemID="260316974" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="218.388425196851" gYpos="34838.7023622048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="277.915984251969" YPOS="35839.6469291339" OwnPage="40" ItemID="284330126" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-7.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="277.915984251969" gYpos="34957.757480315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="220.372677165355" YPOS="35903.4264566929" OwnPage="40" ItemID="314495278" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.317866857551747" LOCALSCY="0.317866857551747" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-8.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="220.372677165355" gYpos="35021.537007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -14041,30 +14088,29 @@
         <PAGEOBJECT XPOS="642.167952755907" YPOS="35831.142992126" OwnPage="40" ItemID="310477854" PTYPE="2" WIDTH="30" HEIGHT="17.4826771653461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.312190663666895" LOCALSCY="0.312190663666895" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/41-12.png" IRENDER="0" EMBEDDED="0" path="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" copath="M0 0 L30 0 L30 17.4827 L0 17.4827 L0 0 Z" gXpos="642.167952755907" gYpos="34949.2535433071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="19449.9151338583" OwnPage="22" ItemID="235804046" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="351049486" BACKITEM="65191150">
             <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.3 Siła Robocza" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.4 Przywódcy Militarni" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="21213.6940314961" OwnPage="24" ItemID="351049486" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="311218574" BACKITEM="235804046">
             <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.5 Ruch" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="22095.583480315" OwnPage="25" ItemID="311218574" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="339083134" BACKITEM="351049486">
             <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.6 Sekwencja Bitwy" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.7 Bitwy Lądowe" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="128.34662992126" YPOS="22977.4729291339" OwnPage="26" ItemID="339083134" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1723940445" BACKITEM="311218574">
-            <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
-            </PageItemAttributes>
-        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.34662992126" YPOS="22977.4729291339" OwnPage="26" ItemID="339083134" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1723940445" BACKITEM="311218574"/>
         <PAGEOBJECT XPOS="128.34662992126" YPOS="23859.3623779528" OwnPage="27" ItemID="1723940445" PTYPE="4" WIDTH="538.584" HEIGHT="785.198000000015" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 1.45519e-11 L181.791 1.45519e-11 L538.584 0 L538.584 530.684 L538.584 785.198 L0 785.198 L0 1.45519e-11 Z" copath="M0 1.45519e-11 L538.584 1.45519e-11 L538.584 785.197 L0 785.197 L0 1.45519e-11 Z" gXpos="128.34662992126" gYpos="48.3472598425063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="339083134">
             <PageItemAttributes>
-                <ItemAttribute Name="ToC" Type="none" Value="9. Wojna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.8 Oblężenia i Okupacja" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="ToC" Type="none" Value="9.9 Bitwy Morskie" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="312.5" YPOS="18568.5256850394" OwnPage="21" ItemID="217923582" PTYPE="4" WIDTH="353.93" HEIGHT="529.973774544157" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Żółty jasny #fffef0" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.93 0 L353.93 529.974 L0 529.974 L0 0 Z" copath="M-0.05 -0.5 L354.43 -0.5 L354.43 533.474 L-0.7 533.074 L-0.05 -0.5 Z" gXpos="0.468330708660062" gYpos="-443.089905511861" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.5" YPOS="18568.5256850394" OwnPage="21" ItemID="217923582" PTYPE="4" WIDTH="353.93" HEIGHT="529.973774544157" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Żółty jasny #fffef0" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.93 0 L353.93 529.974 L0 529.974 L0 0 Z" copath="M-0.05 -0.5 L354.43 -0.5 L354.43 533.474 L-0.7 533.074 L-0.05 -0.5 Z" gXpos="0.468330708659906" gYpos="-443.089905511861" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Casus Belli (CB)"/>
@@ -14154,7 +14200,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="19739.8333333333" OwnPage="22" ItemID="364753950" PTYPE="4" WIDTH="355.053" HEIGHT="493.963376906774" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 493.963 L0 493.963 L0 0 Z" copath="M0.1991 -1.44872 L354.899 -1.91026 L354.899 493.323 L0.155831 494.432 L0.1991 -1.44872 Z" gXpos="-4.77395900588817e-13" gYpos="-153.671706036768" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="19739.8333333333" OwnPage="22" ItemID="364753950" PTYPE="4" WIDTH="355.053" HEIGHT="493.963376906774" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 493.963 L0 493.963 L0 0 Z" copath="M0.1991 -1.44872 L354.899 -1.91026 L354.899 493.323 L0.155831 494.432 L0.1991 -1.44872 Z" gXpos="-6.33715302456039e-13" gYpos="-153.671706036768" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="95" CH="Skomplikowany przykład DoW"/>
@@ -14485,7 +14531,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.84662992126" YPOS="21214.1940314961" OwnPage="24" ItemID="380154894" PTYPE="4" WIDTH="171.345677771048" HEIGHT="781.194891555105" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Żółty jasny #fffef0" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11.3385826771654" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L171.346 0 L171.346 781.195 L0 781.195 L0 0 Z" copath="M-0.159367 -0.5 L171.505 -0.5 L171.505 780.362 L-0.159367 781.029 L-0.159367 -0.5 Z" gXpos="-183.18503937008" gYpos="-443.089905511861" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="333857406"/>
-        <PAGEOBJECT XPOS="312.031669291339" YPOS="22595.9" OwnPage="25" ItemID="364272254" PTYPE="4" WIDTH="355.053" HEIGHT="280.730407561192" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 280.73 L0 280.73 L0 0 Z" copath="M0 -4.03281 L355 -3.31023 L354.022 285.346 L-1.3031 285.004 L0 -4.03281 Z" gXpos="-4.77395900588817e-13" gYpos="56.7266141731959" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="312.031669291339" YPOS="22595.9" OwnPage="25" ItemID="364272254" PTYPE="4" WIDTH="355.053" HEIGHT="280.730407561192" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Yellow" SHADE="30" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="2.83464566929134" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355.053 0 L355.053 280.73 L0 280.73 L0 0 Z" copath="M0 -4.03281 L355 -3.31023 L354.022 285.346 L-1.3031 285.004 L0 -4.03281 Z" gXpos="-6.33715302456039e-13" gYpos="56.7266141731959" gWidth="355.053" gHeight="340.826421477977" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CPARENT="Domyślny pogrubiona 11" SCALEH="96" CH="Przykład"/>
@@ -14522,7 +14568,7 @@
         <PAGEOBJECT XPOS="271.838582677165" YPOS="20439.5211181103" OwnPage="23" ItemID="223624734" PTYPE="2" WIDTH="31.1917885264344" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.260266978346476" LOCALSCY="0.260266978346476" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L31.1918 0 L31.1918 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L31.1918 0 L31.1918 41.6427 L0 41.6427 L0 0 Z" gXpos="271.838582677165" gYpos="15148.1844251969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="447.586614173228" YPOS="20334.6392283465" OwnPage="23" ItemID="339179070" PTYPE="2" WIDTH="44.430220472441" HEIGHT="68.3607716535225" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.216331555865578" LOCALSCY="0.216331555865578" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44.4302 0 L44.4302 68.3608 L0 68.3608 L0 0 Z" copath="M0 0 L44.4302 0 L44.4302 68.3608 L0 68.3608 L0 0 Z" gXpos="447.586614173228" gYpos="15043.3025354331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="439.082677165354" YPOS="20751.3321417323" OwnPage="23" ItemID="227345022" PTYPE="2" WIDTH="44.430220472441" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.267651930556873" LOCALSCY="0.267651930556873" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L44.4302 0 L44.4302 41.6427 L0 41.6427 L0 0 Z" gXpos="439.082677165354" gYpos="15459.9954488189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="606.13251968504" YPOS="20808.0250551182" OwnPage="23" ItemID="168525166" PTYPE="2" WIDTH="61.6323464566923" HEIGHT="51.5595905511145" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.237962727632017" LOCALSCY="0.237962727632017" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L61.6323 0 L61.6323 51.5596 L0 51.5596 L0 0 Z" copath="M0 0 L61.6323 0 L61.6323 51.5596 L0 51.5596 L0 0 Z" gXpos="606.13251968504" gYpos="15516.6883622048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="606.132519685039" YPOS="20808.0250551182" OwnPage="23" ItemID="168525166" PTYPE="2" WIDTH="61.6323464566923" HEIGHT="51.5595905511145" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.237962727632017" LOCALSCY="0.237962727632017" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L61.6323 0 L61.6323 51.5596 L0 51.5596 L0 0 Z" copath="M0 0 L61.6323 0 L61.6323 51.5596 L0 51.5596 L0 0 Z" gXpos="606.132519685039" gYpos="15516.6883622048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="269.003937007874" YPOS="21216.5286771654" OwnPage="24" ItemID="228557342" PTYPE="2" WIDTH="32.5026246719163" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.260266978346476" LOCALSCY="0.260266978346476" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L32.5026 0 L32.5026 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L32.5026 0 L32.5026 41.6427 L0 41.6427 L0 0 Z" gXpos="269.003937007874" gYpos="15043.3025354331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="269.003937007874" YPOS="21451.8042677166" OwnPage="24" ItemID="378349422" PTYPE="2" WIDTH="32.5026246719163" HEIGHT="41.6427165354362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.219612328864299" LOCALSCY="0.219612328864299" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L32.5026 0 L32.5026 41.6427 L0 41.6427 L0 0 Z" copath="M0 0 L32.5026 0 L32.5026 41.6427 L0 41.6427 L0 0 Z" gXpos="269.003937007874" gYpos="15278.5781259843" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="260.839285714286" YPOS="21491.4893070866" OwnPage="24" ItemID="215229998" PTYPE="2" WIDTH="40.6672759655045" HEIGHT="35.1709853767825" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.244983590153642" LOCALSCY="0.244983590153642" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Europa Uniwersalis/skład/imgs/p24-img7.png" IRENDER="0" EMBEDDED="0" path="M0 0 L40.6673 0 L40.6673 35.171 L0 35.171 L0 0 Z" copath="M0 0 L40.6673 0 L40.6673 35.171 L0 35.171 L0 0 Z" gXpos="260.839285714286" gYpos="15318.2631653544" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
